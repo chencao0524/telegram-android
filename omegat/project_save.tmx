@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alert</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023514Z" creationid="jsw" creationdate="20150321T023514Z">
+        <seg>警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An error occurred.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023420Z" creationid="jsw" creationdate="20150321T023021Z">
@@ -686,6 +694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Group notifications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023522Z" creationid="jsw" creationdate="20150321T023522Z">
+        <seg>群组通知</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Have a self-destruct timer</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020236Z" creationid="jsw" creationdate="20150321T020236Z">
@@ -798,6 +814,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Message Preview</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023518Z" creationid="jsw" creationdate="20150321T023518Z">
+        <seg>消息预览</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Message notifications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023508Z" creationid="jsw" creationdate="20150321T023508Z">
+        <seg>消息通知</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Messages Text Size</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023431Z" creationid="jsw" creationdate="20150321T023431Z">
@@ -866,6 +898,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015722Z" creationid="jsw" creationdate="20150321T015636Z">
         <seg>新建私密对话</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No blocked users yet</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023503Z" creationid="jsw" creationdate="20150321T023503Z">
+        <seg>没有被屏蔽的用户</seg>
       </tuv>
     </tu>
     <tu>
@@ -1214,6 +1254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tap and hold on user to unblock.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023500Z" creationid="jsw" creationdate="20150321T023500Z">
+        <seg>长按一个用户以取消屏蔽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tap and hold to view</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015752Z" creationid="jsw" creationdate="20150321T015752Z">
@@ -1258,6 +1306,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020047Z" creationid="jsw" creationdate="20150321T020047Z">
         <seg>已启用USB传输</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unblock</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023447Z" creationid="jsw" creationdate="20150321T023447Z">
+        <seg>取消屏蔽</seg>
       </tuv>
     </tu>
     <tu>
