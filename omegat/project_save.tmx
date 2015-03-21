@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All your Telegram contacts will get your new number added to their address book, provided they had your old number and you haven't blocked them in Telegram.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035450Z" creationid="jsw" creationdate="20150321T035450Z">
+        <seg>所有拥有您的号码并且没有被屏蔽的人将会更新您的新号码到他们的联系人列表中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Always show popup</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035128Z" creationid="jsw" creationdate="20150321T035128Z">
@@ -434,6 +442,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T030507Z" creationid="jsw" creationdate="20150321T030507Z">
         <seg>被屏蔽的用户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CHANGE NUMBER</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035453Z" creationid="jsw" creationdate="20150321T035453Z">
+        <seg>更改号码</seg>
       </tuv>
     </tu>
     <tu>
@@ -830,6 +846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>High</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035240Z" creationid="jsw" creationdate="20150321T035240Z">
+        <seg>高</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Home</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022958Z" creationid="jsw" creationdate="20150321T022958Z">
@@ -1006,6 +1030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Low</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035235Z" creationid="jsw" creationdate="20150321T035235Z">
+        <seg>低</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MESSAGES</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015808Z" creationid="jsw" creationdate="20150321T015808Z">
@@ -1018,6 +1050,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023013Z" creationid="jsw" creationdate="20150321T023013Z">
         <seg>主要的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Max</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035244Z" creationid="jsw" creationdate="20150321T035244Z">
+        <seg>最大值</seg>
       </tuv>
     </tu>
     <tu>
@@ -1094,6 +1134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Never</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035259Z" creationid="jsw" creationdate="20150321T035259Z">
+        <seg>从不</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New Broadcast List</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015936Z" creationid="jsw" creationdate="20150321T015936Z">
@@ -1122,6 +1170,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015722Z" creationid="jsw" creationdate="20150321T015636Z">
         <seg>新建私密对话</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New number</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035454Z" creationid="jsw" creationdate="20150321T035454Z">
+        <seg>新号码</seg>
       </tuv>
     </tu>
     <tu>
@@ -1322,6 +1378,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022135Z" creationid="jsw" creationdate="20150321T022135Z">
         <seg>从群组中移除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repeat Notifications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035302Z" creationid="jsw" creationdate="20150321T035302Z">
+        <seg>重复通知</seg>
       </tuv>
     </tu>
     <tu>
@@ -1678,6 +1742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The number %1$s is already connected to a Telegram account.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035510Z" creationid="jsw" creationdate="20150321T035510Z">
+        <seg>您所输入号码 %1$s 已经注册了 Telegram。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The username must not exceed 32 characters.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023219Z" creationid="jsw" creationdate="20150321T023219Z">
@@ -1830,6 +1902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We will send an SMS with a confirmation code to your new number.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035456Z" creationid="jsw" creationdate="20150321T035456Z">
+        <seg>我们将会发送一条验证短信到您的新号码上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We've sent an SMS with an activation code to your phone</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014609Z" creationid="jsw" creationdate="20150321T014609Z">
@@ -1882,6 +1962,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014753Z" creationid="jsw" creationdate="20150321T014753Z">
         <seg>号码错误？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can change your Telegram number here.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035313Z" creationid="jsw" creationdate="20150321T035313Z">
+        <seg>您可以在此更改您的注册号码。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1962,6 +2050,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023213Z" creationid="jsw" creationdate="20150321T023213Z">
         <seg>您的用户名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your account and all your cloud data — messages, media, contacts, etc. will be moved to the new number.\n\n&lt;b&gt;Important:&lt;/b&gt; all your Telegram contacts will get your &lt;b&gt;new number&lt;/b&gt; added to their address book, provided they had your old number and you haven't blocked them in Telegram.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035440Z" creationid="jsw" creationdate="20150321T035440Z">
+        <seg>您的帐号和您所有在云端的数据，如信息、语音图片、联系人等都将会转移到新的注册号码中。\n\n&lt;b&gt;重要：&lt;/b&gt;那些拥有您的号码并且您并没将他们屏蔽的人将会更新您的&lt;b&gt;新号码&lt;/b&gt;到他们的联系人列表中。</seg>
       </tuv>
     </tu>
     <tu>
