@@ -6,10 +6,34 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>%1$s is using an older version of Telegram, so secret photos will be shown in compatibility mode.\n\nOnce %2$s updates Telegram, photos with timers for 1 minute or less will start working in 'Tap and hold to view' mode, and you will be notified whenever the other party takes a screenshot.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015802Z" creationid="jsw" creationdate="20150321T015802Z">
+        <seg>%1$s 正在使用旧版本的Telegram，因此私密照片将以兼容模式显示。\n\n当 %2$s 更新了Telegram后，阅后即焚定时器设置在一分钟之内的照片将采用“点击并按住以查看”模式运行；而且，当对方截取手机画面时，您将会收到通知。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>%s joined your secret chat.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015702Z" creationid="jsw" creationdate="20150321T015702Z">
         <seg>%s 加入了您的私密对话。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Access error</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020018Z" creationid="jsw" creationdate="20150321T020018Z">
+        <seg>存取错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add recipient</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015951Z" creationid="jsw" creationdate="20150321T015951Z">
+        <seg>添加接收人</seg>
       </tuv>
     </tu>
     <tu>
@@ -38,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clear history</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015727Z" creationid="jsw" creationdate="20150321T015727Z">
+        <seg>清除聊天记录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Code</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014619Z" creationid="jsw" creationdate="20150321T014619Z">
@@ -62,6 +94,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete and exit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015734Z" creationid="jsw" creationdate="20150321T015734Z">
+        <seg>删除并退出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete chat</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015739Z" creationid="jsw" creationdate="20150321T015739Z">
+        <seg>删除这个聊天</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deleted Account</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015743Z" creationid="jsw" creationdate="20150321T015743Z">
+        <seg>删除账号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Didn't get the code?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014803Z" creationid="jsw" creationdate="20150321T014803Z">
@@ -70,10 +126,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disable</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015920Z" creationid="jsw" creationdate="20150321T015920Z">
+        <seg>禁用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>English</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014517Z" creationid="jsw" creationdate="20150321T014514Z">
         <seg>Chinese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter list name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015944Z" creationid="jsw" creationdate="20150321T015944Z">
+        <seg>输入名单名称</seg>
       </tuv>
     </tu>
     <tu>
@@ -94,10 +166,58 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Free %1$s of %2$s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020009Z" creationid="jsw" creationdate="20150321T020009Z">
+        <seg>%1$s 可用，共 %2$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In %1$s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015916Z" creationid="jsw" creationdate="20150321T015916Z">
+        <seg>在 %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Last name (optional)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015504Z" creationid="jsw" creationdate="20150321T015504Z">
         <seg>姓氏（可选）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MESSAGES</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015808Z" creationid="jsw" creationdate="20150321T015808Z">
+        <seg>消息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mute for %1$s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015831Z" creationid="jsw" creationdate="20150321T015831Z">
+        <seg>静音 %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mute notifications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015830Z" creationid="jsw" creationdate="20150321T015830Z">
+        <seg>通知静音</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Broadcast List</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015936Z" creationid="jsw" creationdate="20150321T015936Z">
+        <seg>新建广播名单</seg>
       </tuv>
     </tu>
     <tu>
@@ -112,8 +232,8 @@
       <tuv lang="EN-US">
         <seg>New Secret Chat</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015636Z" creationid="jsw" creationdate="20150321T015636Z">
-        <seg>新建加密对话</seg>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015722Z" creationid="jsw" creationdate="20150321T015636Z">
+        <seg>新建私密对话</seg>
       </tuv>
     </tu>
     <tu>
@@ -122,6 +242,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015541Z" creationid="jsw" creationdate="20150321T015541Z">
         <seg>暂时还没有对话...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No files yet...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020025Z" creationid="jsw" creationdate="20150321T020025Z">
+        <seg>暂时还没有文件...</seg>
       </tuv>
     </tu>
     <tu>
@@ -142,10 +270,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove from broadcast list</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015957Z" creationid="jsw" creationdate="20150321T015957Z">
+        <seg>从广播名单中移除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015812Z" creationid="jsw" creationdate="20150321T015812Z">
+        <seg>搜索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Secret chat cancelled</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015718Z" creationid="jsw" creationdate="20150321T015645Z">
         <seg>私密对话已取消</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Chat</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015748Z" creationid="jsw" creationdate="20150321T015748Z">
+        <seg>选择对话</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020003Z" creationid="jsw" creationdate="20150321T020003Z">
+        <seg>选择文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -174,10 +334,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tap and hold to view</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015752Z" creationid="jsw" creationdate="20150321T015752Z">
+        <seg>点击并按住以查看</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Telegram</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014449Z" creationid="jsw" creationdate="20150321T014449Z">
         <seg>Telegram</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unknown error</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020013Z" creationid="jsw" creationdate="20150321T020013Z">
+        <seg>未知的错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unmute</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015855Z" creationid="jsw" creationdate="20150321T015855Z">
+        <seg>取消静音</seg>
       </tuv>
     </tu>
     <tu>
@@ -234,6 +418,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014753Z" creationid="jsw" creationdate="20150321T014753Z">
         <seg>号码错误？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You created a broadcast list</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015945Z" creationid="jsw" creationdate="20150321T015945Z">
+        <seg>您创建了一个广播名单</seg>
       </tuv>
     </tu>
     <tu>
