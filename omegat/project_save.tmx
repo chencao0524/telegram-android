@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blocked Users</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T030507Z" creationid="jsw" creationdate="20150321T030507Z">
+        <seg>被屏蔽的用户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Calling you...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014613Z" creationid="jsw" creationdate="20150321T014613Z">
@@ -410,6 +418,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015508Z" creationid="jsw" creationdate="20150321T015508Z">
         <seg>取消注册</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chat Background</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T030531Z" creationid="jsw" creationdate="20150321T030531Z">
+        <seg>对话背景</seg>
       </tuv>
     </tu>
     <tu>
@@ -454,10 +470,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Contact joined Telegram</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T030546Z" creationid="jsw" creationdate="20150321T030546Z">
+        <seg>联系人已加入 Telegram</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Contacts</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015516Z" creationid="jsw" creationdate="20150321T015516Z">
         <seg>联系人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T030524Z" creationid="jsw" creationdate="20150321T030524Z">
+        <seg>默认</seg>
       </tuv>
     </tu>
     <tu>
@@ -586,6 +618,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015944Z" creationid="jsw" creationdate="20150321T015944Z">
         <seg>输入名单名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Events</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T030545Z" creationid="jsw" creationdate="20150321T030545Z">
+        <seg>事件</seg>
       </tuv>
     </tu>
     <tu>
@@ -742,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In-App Preview</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T030436Z" creationid="jsw" creationdate="20150321T030436Z">
+        <seg>应用内预览</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In-App Sounds</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T024915Z" creationid="jsw" creationdate="20150321T024915Z">
@@ -790,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Language</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T030608Z" creationid="jsw" creationdate="20150321T030608Z">
+        <seg>语言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Last name (optional)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015504Z" creationid="jsw" creationdate="20150321T015504Z">
@@ -810,6 +866,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020140Z" creationid="jsw" creationdate="20150321T020140Z">
         <seg>位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Log out</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T030516Z" creationid="jsw" creationdate="20150321T030516Z">
+        <seg>退出登录</seg>
       </tuv>
     </tu>
     <tu>
@@ -850,6 +914,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023508Z" creationid="jsw" creationdate="20150321T023508Z">
         <seg>消息通知</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Messages</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T030535Z" creationid="jsw" creationdate="20150321T030535Z">
+        <seg>消息</seg>
       </tuv>
     </tu>
     <tu>
@@ -982,6 +1054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No sound</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T030520Z" creationid="jsw" creationdate="20150321T030520Z">
+        <seg>无声</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>None</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023411Z" creationid="jsw" creationdate="20150321T023411Z">
@@ -994,6 +1074,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022123Z" creationid="jsw" creationdate="20150321T022123Z">
         <seg>通知</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notifications and Sounds</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T030458Z" creationid="jsw" creationdate="20150321T030458Z">
+        <seg>通知和声音</seg>
       </tuv>
     </tu>
     <tu>
@@ -1030,6 +1118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please note that Telegram Support is done by volunteers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T030624Z" creationid="jsw" creationdate="20150321T030624Z">
+        <seg>请注意，Telegram 的技术支持由志愿者提供。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remove from broadcast list</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015957Z" creationid="jsw" creationdate="20150321T015957Z">
@@ -1058,6 +1154,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021540Z" creationid="jsw" creationdate="20150321T021540Z">
         <seg>回复给 %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reset</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T030444Z" creationid="jsw" creationdate="20150321T030444Z">
+        <seg>重置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reset All Notifications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T030448Z" creationid="jsw" creationdate="20150321T030448Z">
+        <seg>重置所有通知</seg>
       </tuv>
     </tu>
     <tu>
@@ -1146,6 +1258,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023031Z" creationid="jsw" creationdate="20150321T023031Z">
         <seg>阅后即焚计时器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Send by Enter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T030539Z" creationid="jsw" creationdate="20150321T030539Z">
+        <seg>按回车键发送</seg>
       </tuv>
     </tu>
     <tu>
@@ -1270,6 +1390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Support</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T030527Z" creationid="jsw" creationdate="20150321T030527Z">
+        <seg>支持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>System Root</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020051Z" creationid="jsw" creationdate="20150321T020051Z">
@@ -1310,6 +1438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Terminate All Other Sessions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T030542Z" creationid="jsw" creationdate="20150321T030542Z">
+        <seg>注销所有其它设备上的会话</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The username must not exceed 32 characters.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023219Z" creationid="jsw" creationdate="20150321T023219Z">
@@ -1346,6 +1482,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023447Z" creationid="jsw" creationdate="20150321T023447Z">
         <seg>取消屏蔽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undo all custom notification settings for all your contacts and groups</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T030454Z" creationid="jsw" creationdate="20150321T030454Z">
+        <seg>撤消所有联系人和群组的自定制通知设置</seg>
       </tuv>
     </tu>
     <tu>
