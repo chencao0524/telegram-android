@@ -774,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cloud-Based</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042809Z" creationid="jsw" creationdate="20150321T042809Z">
+        <seg>基于云端</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Code</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014619Z" creationid="jsw" creationdate="20150321T014619Z">
@@ -2142,6 +2150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Powerful</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042806Z" creationid="jsw" creationdate="20150321T042806Z">
+        <seg>强大</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Priority</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035230Z" creationid="jsw" creationdate="20150321T035230Z">
@@ -2162,6 +2178,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042000Z" creationid="jsw" creationdate="20150321T042000Z">
         <seg>隐私和安全</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Private</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042813Z" creationid="jsw" creationdate="20150321T042813Z">
+        <seg>私密</seg>
       </tuv>
     </tu>
     <tu>
