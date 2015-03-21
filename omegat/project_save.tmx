@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add %1$s to the group?\n\nNumber of last messages to forward:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042622Z" creationid="jsw" creationdate="20150321T042622Z">
+        <seg>要将 %1$s 添加到小组吗？\n\n转发给他的最近消息数：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add Users</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042219Z" creationid="jsw" creationdate="20150321T042219Z">
@@ -478,6 +486,62 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are you sure you want to block this contact?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042707Z" creationid="jsw" creationdate="20150321T042707Z">
+        <seg>您确定要屏蔽该联系人吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to cancel registration?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042730Z" creationid="jsw" creationdate="20150321T042730Z">
+        <seg>您确定要取消注册吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to clear history?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042739Z" creationid="jsw" creationdate="20150321T042739Z">
+        <seg>您确定要清除聊天记录吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to delete %1$s?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042746Z" creationid="jsw" creationdate="20150321T042746Z">
+        <seg>您确定要删除 %1$s 吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to delete and leave the group?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042656Z" creationid="jsw" creationdate="20150321T042650Z">
+        <seg>您确定要删除并退出这个群组吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to delete this chat?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042700Z" creationid="jsw" creationdate="20150321T042655Z">
+        <seg>您确定要删除这个对话吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to delete this contact?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042719Z" creationid="jsw" creationdate="20150321T042719Z">
+        <seg>您确定要删除该联系人吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you sure you want to delete this photo?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T041950Z" creationid="jsw" creationdate="20150321T041950Z">
@@ -494,6 +558,54 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are you sure you want to log out?\n\nNote that you can seamlessly use Telegram on all your devices at once.\n\nRemember, logging out kills all your Secret Chats.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042638Z" creationid="jsw" creationdate="20150321T042638Z">
+        <seg>您确定要注销吗？\n\n请注意，您可以同时在所有设备上无缝地使用 Telegram。\n\n请记住，注销将会清除所有的加密聊天。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to share your contact info?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042703Z" creationid="jsw" creationdate="20150321T042703Z">
+        <seg>您确定要共享您的联系信息吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to start a secret chat?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042724Z" creationid="jsw" creationdate="20150321T042724Z">
+        <seg>您确定要开始加密对话吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to terminate all other sessions?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042645Z" creationid="jsw" creationdate="20150321T042645Z">
+        <seg>您确定要注销所有其它设备上的会话吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to unblock this contact?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042714Z" creationid="jsw" creationdate="20150321T042714Z">
+        <seg>您确定要取消对该联系人的屏蔽吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042606Z" creationid="jsw" creationdate="20150321T042606Z">
+        <seg>您确定吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ask a Question</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023434Z" creationid="jsw" creationdate="20150321T023434Z">
@@ -506,6 +618,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T034915Z" creationid="jsw" creationdate="20150321T034915Z">
         <seg>询问志愿者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Audio</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042523Z" creationid="jsw" creationdate="20150321T042523Z">
+        <seg>语音</seg>
       </tuv>
     </tu>
     <tu>
@@ -662,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Code expired, please login again</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042533Z" creationid="jsw" creationdate="20150321T042533Z">
+        <seg>验证码已过期，请重新登录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compress Video</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042245Z" creationid="jsw" creationdate="20150321T042245Z">
@@ -674,6 +802,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015612Z" creationid="jsw" creationdate="20150321T015612Z">
         <seg>连接中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contact</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042519Z" creationid="jsw" creationdate="20150321T042519Z">
+        <seg>联系人</seg>
       </tuv>
     </tu>
     <tu>
@@ -1022,6 +1158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fast</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042757Z" creationid="jsw" creationdate="20150321T042757Z">
+        <seg>快速</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020143Z" creationid="jsw" creationdate="20150321T020143Z">
@@ -1078,10 +1222,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Forward messages to %1$s?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042628Z" creationid="jsw" creationdate="20150321T042628Z">
+        <seg>转发信息给%1$s？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Forwarded message</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020153Z" creationid="jsw" creationdate="20150321T020153Z">
         <seg>已转发的消息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Free</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042758Z" creationid="jsw" creationdate="20150321T042758Z">
+        <seg>免费</seg>
       </tuv>
     </tu>
     <tu>
@@ -1318,10 +1478,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Invalid code</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042535Z" creationid="jsw" creationdate="20150321T042535Z">
+        <seg>无效的验证码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid first name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042536Z" creationid="jsw" creationdate="20150321T042536Z">
+        <seg>无效的名字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid last name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042538Z" creationid="jsw" creationdate="20150321T042538Z">
+        <seg>无效的姓氏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Invalid passcode</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035730Z" creationid="jsw" creationdate="20150321T035730Z">
         <seg>无效的密码（密码错误）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid phone number</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042531Z" creationid="jsw" creationdate="20150321T042531Z">
+        <seg>无效的手机号码</seg>
       </tuv>
     </tu>
     <tu>
@@ -1378,6 +1570,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020235Z" creationid="jsw" creationdate="20150321T020235Z">
         <seg>不在服务器上留下记录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042543Z" creationid="jsw" creationdate="20150321T042543Z">
+        <seg>载入中......</seg>
       </tuv>
     </tu>
     <tu>
@@ -1886,6 +2086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Photo</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042515Z" creationid="jsw" creationdate="20150321T042515Z">
+        <seg>图片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please confirm your country code and enter your phone number.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014536Z" creationid="jsw" creationdate="20150321T014536Z">
@@ -1914,6 +2122,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T030624Z" creationid="jsw" creationdate="20150321T030624Z">
         <seg>请注意，Telegram 的技术支持由志愿者提供。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please send an email to sms@telegram.org and tell us about your problem.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042555Z" creationid="jsw" creationdate="20150321T042555Z">
+        <seg>请发邮件到 sms@telegram.org 告诉我们您遇到的问题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2118,6 +2334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Secure</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042758Z" creationid="jsw" creationdate="20150321T042758Z">
+        <seg>安全</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Security</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042055Z" creationid="jsw" creationdate="20150321T042055Z">
@@ -2186,6 +2410,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022045Z" creationid="jsw" creationdate="20150321T022045Z">
         <seg>发送消息至...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Send messages to %1$s?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042629Z" creationid="jsw" creationdate="20150321T042629Z">
+        <seg>要把消息发送给 %1$s 吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -2318,6 +2550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sorry, this feature is currently not available in your country.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042754Z" creationid="jsw" creationdate="20150321T042754Z">
+        <seg>抱歉，该功能在您的国家暂时不可用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sorry, this username is already taken.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023214Z" creationid="jsw" creationdate="20150321T023214Z">
@@ -2370,6 +2610,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015546Z" creationid="jsw" creationdate="20150321T015546Z">
         <seg>要开始聊天请点击右下角的新建聊天按钮\n，或点击左上角菜单按钮查看更多选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sticker</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042522Z" creationid="jsw" creationdate="20150321T042522Z">
+        <seg>贴图</seg>
       </tuv>
     </tu>
     <tu>
@@ -2510,10 +2758,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This message is not supported on your version of Telegram.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042504Z" creationid="jsw" creationdate="20150321T042504Z">
+        <seg>当前版本不支持查看此条消息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This user does not have Telegram yet, send an invitation?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042605Z" creationid="jsw" creationdate="20150321T042605Z">
+        <seg>该用户还未加入Telegram，是否发送邀请？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To send images without compression</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020103Z" creationid="jsw" creationdate="20150321T020103Z">
         <seg>发送原图片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Too many attempts, please try again later</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042535Z" creationid="jsw" creationdate="20150321T042535Z">
+        <seg>尝试次数过多，请稍后再试</seg>
       </tuv>
     </tu>
     <tu>
@@ -2578,6 +2850,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020246Z" creationid="jsw" creationdate="20150321T020246Z">
         <seg>不支持的附件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update the app to view: http://telegram.org/update</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042512Z" creationid="jsw" creationdate="20150321T042512Z">
+        <seg>请前往更新版本: http://telegram.org/update</seg>
       </tuv>
     </tu>
     <tu>
@@ -2742,6 +3022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042525Z" creationid="jsw" creationdate="20150321T042525Z">
+        <seg>您</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You added un2</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042420Z" creationid="jsw" creationdate="20150321T042420Z">
@@ -2806,6 +3094,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You don't have a video player, please install one to continue</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042551Z" creationid="jsw" creationdate="20150321T042551Z">
+        <seg>没有可用的视频播放器，请先安装一个</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You don't have applications that can handle the file type '%1$s', please install one to continue</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042603Z" creationid="jsw" creationdate="20150321T042603Z">
+        <seg>您没有安装可执行 \'%1$s\' 类型文件的软件，请先安装一个。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You have a new message</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020256Z" creationid="jsw" creationdate="20150321T020256Z">
@@ -2866,6 +3170,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020250Z" creationid="jsw" creationdate="20150321T020250Z">
         <seg>您已将阅后即焚计时器设定为 %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You took a screenshot!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042527Z" creationid="jsw" creationdate="20150321T042527Z">
+        <seg>您截了一张图！</seg>
       </tuv>
     </tu>
     <tu>
@@ -3062,6 +3374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>un1 added you</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042454Z" creationid="jsw" creationdate="20150321T042454Z">
+        <seg>un1 添加了您</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>un1 changed the group name to un2</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042401Z" creationid="jsw" creationdate="20150321T042401Z">
@@ -3114,6 +3434,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042450Z" creationid="jsw" creationdate="20150321T042450Z">
         <seg>un1 已将您移除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>un1 returned to the group</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042459Z" creationid="jsw" creationdate="20150321T042459Z">
+        <seg>un1 返回了该群</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>un1 took a screenshot!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042529Z" creationid="jsw" creationdate="20150321T042529Z">
+        <seg>un1 截了一张图！</seg>
       </tuv>
     </tu>
     <tu>
