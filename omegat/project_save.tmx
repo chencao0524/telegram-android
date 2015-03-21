@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Always show popup</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035128Z" creationid="jsw" creationdate="20150321T035128Z">
+        <seg>总是显示提醒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An error occurred.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023420Z" creationid="jsw" creationdate="20150321T023021Z">
@@ -394,6 +402,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T034915Z" creationid="jsw" creationdate="20150321T034915Z">
         <seg>询问志愿者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Automatic media download</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035149Z" creationid="jsw" creationdate="20150321T035149Z">
+        <seg>自动下载媒体文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Badge Counter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035132Z" creationid="jsw" creationdate="20150321T035132Z">
+        <seg>未读数量提示</seg>
       </tuv>
     </tu>
     <tu>
@@ -534,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete localization?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T034956Z" creationid="jsw" creationdate="20150321T034956Z">
+        <seg>删除本地化文件？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete this chat</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020241Z" creationid="jsw" creationdate="20150321T020241Z">
@@ -574,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Disabled</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035006Z" creationid="jsw" creationdate="20150321T035006Z">
+        <seg>已禁用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not allow forwarding</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020237Z" creationid="jsw" creationdate="20150321T020237Z">
@@ -590,10 +630,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edit name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035224Z" creationid="jsw" creationdate="20150321T035224Z">
+        <seg>编辑名字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enable Animations</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023440Z" creationid="jsw" creationdate="20150321T023440Z">
         <seg>开启动画效果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enabled</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035003Z" creationid="jsw" creationdate="20150321T035003Z">
+        <seg>已启用</seg>
       </tuv>
     </tu>
     <tu>
@@ -666,6 +722,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020033Z" creationid="jsw" creationdate="20150321T020033Z">
         <seg>文件大小不能超过 %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035048Z" creationid="jsw" creationdate="20150321T035048Z">
+        <seg>名字</seg>
       </tuv>
     </tu>
     <tu>
@@ -774,10 +838,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However we recommend you to leave it enabled to keep app running in background and receive instant notifications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035031Z" creationid="jsw" creationdate="20150321T035031Z">
+        <seg>但是我们仍然建议您保留该应用在后台运行以接收即时消息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If Google Play Services are enough for you to receive notifications, you can disable Notifications Service.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035029Z" creationid="jsw" creationdate="20150321T035018Z">
+        <seg>如果您能收到 Google Play 服务发送的通知，您可以禁用 Telegram 的通知服务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you do, other people will be able to find you by this username and contact you without knowing your phone number.&lt;br&gt;&lt;br&gt;You can use &lt;b&gt;a–z&lt;/b&gt;, &lt;b&gt;0–9&lt;/b&gt; and underscores.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023356Z" creationid="jsw" creationdate="20150321T023356Z">
         <seg>如果您这样做，别人就可以藉由此用户名称找到您并与您联络，而不需要知道您的手机号码。&lt;br&gt;&lt;br&gt;您可以使用 &lt;b&gt;a–z&lt;/b&gt;，&lt;b&gt;0–9&lt;/b&gt; 及下划线。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import Contacts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035045Z" creationid="jsw" creationdate="20150321T035045Z">
+        <seg>导入联系人</seg>
       </tuv>
     </tu>
     <tu>
@@ -822,6 +910,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Incorrect localization file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035000Z" creationid="jsw" creationdate="20150321T035000Z">
+        <seg>错误的本地化文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Info</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023208Z" creationid="jsw" creationdate="20150321T023208Z">
@@ -846,10 +942,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LED Color</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035057Z" creationid="jsw" creationdate="20150321T035057Z">
+        <seg>LED 颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Language</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T030608Z" creationid="jsw" creationdate="20150321T030608Z">
         <seg>语言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Last name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035052Z" creationid="jsw" creationdate="20150321T035052Z">
+        <seg>姓氏</seg>
       </tuv>
     </tu>
     <tu>
@@ -882,6 +994,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T030516Z" creationid="jsw" creationdate="20150321T030516Z">
         <seg>退出登录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Long</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035138Z" creationid="jsw" creationdate="20150321T035138Z">
+        <seg>长</seg>
       </tuv>
     </tu>
     <tu>
@@ -1038,10 +1158,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No media</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035216Z" creationid="jsw" creationdate="20150321T035216Z">
+        <seg>无</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No messages here yet...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020152Z" creationid="jsw" creationdate="20150321T020145Z">
         <seg>暂时还没有消息...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No popup</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035117Z" creationid="jsw" creationdate="20150321T035117Z">
+        <seg>不弹窗</seg>
       </tuv>
     </tu>
     <tu>
@@ -1086,6 +1222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Notifications Service</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035009Z" creationid="jsw" creationdate="20150321T035009Z">
+        <seg>通知服务</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Notifications and Sounds</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T030458Z" creationid="jsw" creationdate="20150321T030458Z">
@@ -1098,6 +1242,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023035Z" creationid="jsw" creationdate="20150321T023035Z">
         <seg>关闭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only when screen \"off\"</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035125Z" creationid="jsw" creationdate="20150321T035125Z">
+        <seg>只在屏幕关闭时</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only when screen \"on\"</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035121Z" creationid="jsw" creationdate="20150321T035121Z">
+        <seg>只在屏幕打开时</seg>
       </tuv>
     </tu>
     <tu>
@@ -1130,6 +1290,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T030624Z" creationid="jsw" creationdate="20150321T030624Z">
         <seg>请注意，Telegram 的技术支持由志愿者提供。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Popup Notifications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035111Z" creationid="jsw" creationdate="20150321T035111Z">
+        <seg>弹窗提醒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Priority</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035230Z" creationid="jsw" creationdate="20150321T035230Z">
+        <seg>优先级</seg>
       </tuv>
     </tu>
     <tu>
@@ -1210,6 +1386,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020243Z" creationid="jsw" creationdate="20150321T020243Z">
         <seg>保存到下载</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save to gallery</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035220Z" creationid="jsw" creationdate="20150321T035220Z">
+        <seg>保存到相册</seg>
       </tuv>
     </tu>
     <tu>
@@ -1318,6 +1502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Settings default</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035144Z" creationid="jsw" creationdate="20150321T035144Z">
+        <seg>默认设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Share</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020244Z" creationid="jsw" creationdate="20150321T020244Z">
@@ -1342,6 +1534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Short</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035136Z" creationid="jsw" creationdate="20150321T035136Z">
+        <seg>短</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sorry, a username can't start with a number.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023220Z" creationid="jsw" creationdate="20150321T023220Z">
@@ -1362,6 +1562,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023215Z" creationid="jsw" creationdate="20150321T023215Z">
         <seg>抱歉，该用户名无效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sort By</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035036Z" creationid="jsw" creationdate="20150321T035036Z">
+        <seg>排序</seg>
       </tuv>
     </tu>
     <tu>
@@ -1410,6 +1618,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020051Z" creationid="jsw" creationdate="20150321T020051Z">
         <seg>系统根目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System default</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035141Z" creationid="jsw" creationdate="20150321T035141Z">
+        <seg>系统默认</seg>
       </tuv>
     </tu>
     <tu>
@@ -1618,6 +1834,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014609Z" creationid="jsw" creationdate="20150321T014609Z">
         <seg>我们发送了一条带有验证码的短信到您的手机</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When connected on Wi-Fi</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035203Z" creationid="jsw" creationdate="20150321T035203Z">
+        <seg>接入 WiFi 时</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When roaming</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035206Z" creationid="jsw" creationdate="20150321T035206Z">
+        <seg>漫游时</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When using mobile data</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035158Z" creationid="jsw" creationdate="20150321T035158Z">
+        <seg>使用移动数据流量时</seg>
       </tuv>
     </tu>
     <tu>
