@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>%1$s %2$s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021557Z" creationid="jsw" creationdate="20150321T021557Z">
+        <seg>%1$s %2$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$s @ %2$s: %3$s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021317Z" creationid="jsw" creationdate="20150321T021317Z">
+        <seg>%1$s @ %2$s: %3$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>%1$s disabled the self-destruct timer</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020254Z" creationid="jsw" creationdate="20150321T020254Z">
@@ -14,10 +30,154 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>%1$s edited the group's %2$s name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021419Z" creationid="jsw" creationdate="20150321T021419Z">
+        <seg>%1$s 编辑了%2$s 群组的名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$s edited the group's %2$s photo</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021422Z" creationid="jsw" creationdate="20150321T021422Z">
+        <seg>%1$s 编辑了 %2$s 群组的图片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$s has left the group %2$s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021457Z" creationid="jsw" creationdate="20150321T021457Z">
+        <seg>%1$s 已离开 %2$s 群组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$s invited %3$s to the group %2$s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021427Z" creationid="jsw" creationdate="20150321T021427Z">
+        <seg>%1$s 邀请了 %3$s 加入 %2$s 群组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$s invited you to the group %2$s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021413Z" creationid="jsw" creationdate="20150321T021413Z">
+        <seg>%1$s 邀请您加入 %2$s 群组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>%1$s is using an older version of Telegram, so secret photos will be shown in compatibility mode.\n\nOnce %2$s updates Telegram, photos with timers for 1 minute or less will start working in 'Tap and hold to view' mode, and you will be notified whenever the other party takes a screenshot.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015802Z" creationid="jsw" creationdate="20150321T015802Z">
         <seg>%1$s 正在使用旧版本的Telegram，因此私密照片将以兼容模式显示。\n\n当 %2$s 更新了Telegram后，阅后即焚定时器设置在一分钟之内的照片将采用“点击并按住以查看”模式运行；而且，当对方截取手机画面时，您将会收到通知。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$s joined Telegram!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021459Z" creationid="jsw" creationdate="20150321T021459Z">
+        <seg>%1$s 加入了 Telegram！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$s removed %3$s from the group %2$s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021445Z" creationid="jsw" creationdate="20150321T021445Z">
+        <seg>%1$s 已将 %3$s 从 %2$s 群组移出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$s removed you from the group %2$s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021450Z" creationid="jsw" creationdate="20150321T021450Z">
+        <seg>%1$s 将您移出了 %2$s 群组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$s returned to the group %2$s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021435Z" creationid="jsw" creationdate="20150321T021435Z">
+        <seg>%1$s 返回了群 %2$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$s sent a file to the group %2$s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021332Z" creationid="jsw" creationdate="20150321T021332Z">
+        <seg>%1$s 发送了一个文件到群组 %2$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$s sent a location to the group %2$s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021258Z" creationid="jsw" creationdate="20150321T021258Z">
+        <seg>%1$s 发送了一个位置到 %2$s 群组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$s sent a message to the group %2$s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021240Z" creationid="jsw" creationdate="20150321T021240Z">
+        <seg>%1$s 发送了一条消息到 %2$s 群组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$s sent a photo to the group %2$s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021241Z" creationid="jsw" creationdate="20150321T021241Z">
+        <seg>%1$s 发送了一张图片到 %2$s 群组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$s sent a sticker to the group %2$s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021404Z" creationid="jsw" creationdate="20150321T021350Z">
+        <seg>%1$s 发送了一个贴图到群组 %2$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$s sent a video to the group %2$s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021242Z" creationid="jsw" creationdate="20150321T021242Z">
+        <seg>%1$s 发送了一段视频到 %2$s 群组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$s sent an audio to the group %2$s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021344Z" creationid="jsw" creationdate="20150321T021344Z">
+        <seg>%1$s 发送该贴图到群组 %2$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$s sent you a file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021214Z" creationid="jsw" creationdate="20150321T021214Z">
+        <seg>%1$s 给您发送了一个文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$s sent you a location</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021210Z" creationid="jsw" creationdate="20150321T021210Z">
+        <seg>%1$s 给您发送了一个位置</seg>
       </tuv>
     </tu>
     <tu>
@@ -38,10 +198,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>%1$s sent you a sticker</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021226Z" creationid="jsw" creationdate="20150321T021226Z">
+        <seg>%1$s 给你发送了一个贴图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>%1$s sent you a video</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020335Z" creationid="jsw" creationdate="20150321T020335Z">
         <seg>%1$s 给您发送了一段视频</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$s sent you an audio</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021221Z" creationid="jsw" creationdate="20150321T021221Z">
+        <seg>%1$s 给您发送了一段语音</seg>
       </tuv>
     </tu>
     <tu>
@@ -54,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>%1$s shared a contact in the group %2$s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021252Z" creationid="jsw" creationdate="20150321T021242Z">
+        <seg>%1$s 分享了一个联系人到 %2$s 群组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>%1$s shared a contact with you</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020400Z" creationid="jsw" creationdate="20150321T020347Z">
@@ -62,10 +246,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>%1$s updated profile photo</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021523Z" creationid="jsw" creationdate="20150321T021523Z">
+        <seg>%1$s 更新了头像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$s,\nWe detected a login into your account from a new device on %2$s\n\nDevice: %3$s\nLocation: %4$s\n\nIf this wasn't you, you can go to Settings - Privacy and Security - Terminate all other sessions.\n\nSincerely,\nThe Telegram Team</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021516Z" creationid="jsw" creationdate="20150321T021516Z">
+        <seg>%1$s，\n我们发现您的账号于 %2$s 在新的设备上登录\n\n设备： %3$s\n位置： %4$s\n\n如果这不是您本人，您可以到「设置—隐私和安全—注销所有其它设备上的会话」注销其登录。\n\n此致，\nTelegram 团队</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>%1$s: %2$s</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020257Z" creationid="jsw" creationdate="20150321T020257Z">
-        <seg>%1$s %2$s</seg>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021617Z" creationid="jsw" creationdate="20150321T021617Z">
+        <seg>%1$s: %2$s</seg>
       </tuv>
     </tu>
     <tu>
@@ -326,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GLOBAL SEARCH</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021745Z" creationid="jsw" creationdate="20150321T021745Z">
+        <seg>全局搜索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gallery</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020139Z" creationid="jsw" creationdate="20150321T020139Z">
@@ -350,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hey, let's switch to Telegram: https://telegram.org/dl</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021717Z" creationid="jsw" creationdate="20150321T021717Z">
+        <seg>亲！和我一起用 Telegram 吧，超棒的聊天工具，简洁高效，没有广告，会话加密，尊重隐私，不受审查过滤：https://telegram.org/dl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In %1$s</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015916Z" creationid="jsw" creationdate="20150321T015916Z">
@@ -362,6 +578,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020049Z" creationid="jsw" creationdate="20150321T020049Z">
         <seg>内部存储器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invite Friends</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021739Z" creationid="jsw" creationdate="20150321T021739Z">
+        <seg>邀请朋友</seg>
       </tuv>
     </tu>
     <tu>
@@ -454,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No contacts yet</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021642Z" creationid="jsw" creationdate="20150321T021642Z">
+        <seg>还没有联系人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No files yet...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020025Z" creationid="jsw" creationdate="20150321T020025Z">
@@ -498,6 +730,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015957Z" creationid="jsw" creationdate="20150321T015957Z">
         <seg>从广播名单中移除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reply</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021531Z" creationid="jsw" creationdate="20150321T021531Z">
+        <seg>回复</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reply to %1$s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021540Z" creationid="jsw" creationdate="20150321T021540Z">
+        <seg>回复给 %1$s</seg>
       </tuv>
     </tu>
     <tu>
@@ -554,6 +802,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015748Z" creationid="jsw" creationdate="20150321T015748Z">
         <seg>选择对话</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select Contact</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021639Z" creationid="jsw" creationdate="20150321T021639Z">
+        <seg>选择联系人</seg>
       </tuv>
     </tu>
     <tu>
@@ -870,6 +1126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>at</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021723Z" creationid="jsw" creationdate="20150321T021723Z">
+        <seg>于</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>en</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014520Z" creationid="jsw" creationdate="20150321T014520Z">
@@ -894,6 +1158,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>last seen</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021735Z" creationid="jsw" creationdate="20150321T021735Z">
+        <seg>最近上线</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>online</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021730Z" creationid="jsw" creationdate="20150321T021730Z">
+        <seg>在线</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>typing...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020116Z" creationid="jsw" creationdate="20150321T020116Z">
@@ -906,6 +1186,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015525Z" creationid="jsw" creationdate="20150321T015525Z">
         <seg>昨天</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>yesterday at</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021727Z" creationid="jsw" creationdate="20150321T021727Z">
+        <seg>于昨天</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
