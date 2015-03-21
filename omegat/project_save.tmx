@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Account self-destructs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042059Z" creationid="jsw" creationdate="20150321T042059Z">
+        <seg>自动删除账号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022926Z" creationid="jsw" creationdate="20150321T022926Z">
@@ -338,6 +346,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022934Z" creationid="jsw" creationdate="20150321T022934Z">
         <seg>添加联系人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add exceptions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042123Z" creationid="jsw" creationdate="20150321T042123Z">
+        <seg>添加例外</seg>
       </tuv>
     </tu>
     <tu>
@@ -398,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Always Share With</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042141Z" creationid="jsw" creationdate="20150321T042141Z">
+        <seg>白名单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Always show popup</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035128Z" creationid="jsw" creationdate="20150321T035128Z">
@@ -418,6 +442,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020245Z" creationid="jsw" creationdate="20150321T020245Z">
         <seg>使用本地化文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Approximate last seen will be shown instead (recently, within a week, within a month).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042137Z" creationid="jsw" creationdate="20150321T042137Z">
+        <seg>取而代之的是大概的上线时间（如：最近、一周内、一个月内）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to delete this photo?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T041950Z" creationid="jsw" creationdate="20150321T041950Z">
+        <seg>您确认要删除这张照片吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to delete this video?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T041953Z" creationid="jsw" creationdate="20150321T041953Z">
+        <seg>您确认要删除这个视频吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -506,6 +554,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035554Z" creationid="jsw" creationdate="20150321T035554Z">
         <seg>修改密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change who can see your Last Seen time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042118Z" creationid="jsw" creationdate="20150321T042118Z">
+        <seg>修改谁可以看见您最后上线的时间。</seg>
       </tuv>
     </tu>
     <tu>
@@ -646,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete your account?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042112Z" creationid="jsw" creationdate="20150321T042112Z">
+        <seg>要删除您的账号吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Deleted Account</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015743Z" creationid="jsw" creationdate="20150321T015743Z">
@@ -674,6 +738,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035752Z" creationid="jsw" creationdate="20150321T035006Z">
         <seg>关闭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discard changes?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T041957Z" creationid="jsw" creationdate="20150321T041957Z">
+        <seg>放弃更改？</seg>
       </tuv>
     </tu>
     <tu>
@@ -794,6 +866,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T030545Z" creationid="jsw" creationdate="20150321T030545Z">
         <seg>事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Everybody</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042014Z" creationid="jsw" creationdate="20150321T042014Z">
+        <seg>所有人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Everybody (-%1$d)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042031Z" creationid="jsw" creationdate="20150321T042031Z">
+        <seg>所有人 (-%1$d)</seg>
       </tuv>
     </tu>
     <tu>
@@ -998,6 +1086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you do not log in at least once within this period, your account will be deleted along with all groups, messages and contacts.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042109Z" creationid="jsw" creationdate="20150321T042109Z">
+        <seg>如果您在此期间内没有登录过，您的账号以及群组、消息和联系人将全部被删除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you do, other people will be able to find you by this username and contact you without knowing your phone number.&lt;br&gt;&lt;br&gt;You can use &lt;b&gt;a–z&lt;/b&gt;, &lt;b&gt;0–9&lt;/b&gt; and underscores.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023356Z" creationid="jsw" creationdate="20150321T023356Z">
@@ -1006,10 +1102,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you're away for</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042103Z" creationid="jsw" creationdate="20150321T042103Z">
+        <seg>离线时间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Import Contacts</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035045Z" creationid="jsw" creationdate="20150321T035045Z">
         <seg>导入联系人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Important: you won't be able to see Last Seen times for people with whom you don't share your Last Seen time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042136Z" creationid="jsw" creationdate="20150321T042136Z">
+        <seg>重要提示：您不愿意暴露最后上线时间的对象，他们最后的上线时间您也将无法看到。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1106,6 +1218,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T030608Z" creationid="jsw" creationdate="20150321T030608Z">
         <seg>语言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Last Seen</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042009Z" creationid="jsw" creationdate="20150321T042009Z">
+        <seg>最后上线时间</seg>
       </tuv>
     </tu>
     <tu>
@@ -1270,10 +1390,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>My Contacts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042022Z" creationid="jsw" creationdate="20150321T042022Z">
+        <seg>我的联系人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>My Contacts (+%1$d)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042038Z" creationid="jsw" creationdate="20150321T042038Z">
+        <seg>我的联系人 (+%1$d)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>My Contacts (-%1$d)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042042Z" creationid="jsw" creationdate="20150321T042042Z">
+        <seg>我的联系人  (-%1$d)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>My Contacts (-%1$d, +%2$d)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042046Z" creationid="jsw" creationdate="20150321T042046Z">
+        <seg>我的联系人 (-%1$d, +%2$d)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Never</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035259Z" creationid="jsw" creationdate="20150321T035259Z">
         <seg>从不</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Never Share With</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042144Z" creationid="jsw" creationdate="20150321T042144Z">
+        <seg>黑名单</seg>
       </tuv>
     </tu>
     <tu>
@@ -1418,6 +1578,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T030520Z" creationid="jsw" creationdate="20150321T030520Z">
         <seg>无声</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nobody</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042026Z" creationid="jsw" creationdate="20150321T042026Z">
+        <seg>不允许任何人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nobody (+%1$d)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042051Z" creationid="jsw" creationdate="20150321T042051Z">
+        <seg>不允许任何人 (+%1$d)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1570,6 +1746,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035230Z" creationid="jsw" creationdate="20150321T035230Z">
         <seg>优先级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Privacy</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042005Z" creationid="jsw" creationdate="20150321T042005Z">
+        <seg>隐私</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Privacy and Security</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042000Z" creationid="jsw" creationdate="20150321T042000Z">
+        <seg>隐私和安全</seg>
       </tuv>
     </tu>
     <tu>
@@ -1730,6 +1922,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020233Z" creationid="jsw" creationdate="20150321T020233Z">
         <seg>私密对话：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Security</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042055Z" creationid="jsw" creationdate="20150321T042055Z">
+        <seg>安全</seg>
       </tuv>
     </tu>
     <tu>
@@ -2258,6 +2458,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035604Z" creationid="jsw" creationdate="20150321T035558Z">
         <seg>当您设置好一个附加密码后，一把锁图标将会出现在聊天页面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Who can see your Last Seen time?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042120Z" creationid="jsw" creationdate="20150321T042120Z">
+        <seg>谁可以看到您最后上线的时间？</seg>
       </tuv>
     </tu>
     <tu>
