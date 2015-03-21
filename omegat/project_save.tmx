@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add Users</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042219Z" creationid="jsw" creationdate="20150321T042219Z">
+        <seg>添加用户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add contact</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022934Z" creationid="jsw" creationdate="20150321T022934Z">
@@ -414,10 +422,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Always Share</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042151Z" creationid="jsw" creationdate="20150321T042151Z">
+        <seg>白名单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Always Share With</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042141Z" creationid="jsw" creationdate="20150321T042141Z">
         <seg>白名单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Always share with users...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042210Z" creationid="jsw" creationdate="20150321T042159Z">
+        <seg>选择可以看见您上线时间的用户…</seg>
       </tuv>
     </tu>
     <tu>
@@ -502,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Back</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042255Z" creationid="jsw" creationdate="20150321T042255Z">
+        <seg>返回</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Badge Counter</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035132Z" creationid="jsw" creationdate="20150321T035132Z">
@@ -534,10 +566,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CROP</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042334Z" creationid="jsw" creationdate="20150321T042334Z">
+        <seg>裁剪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Call</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042308Z" creationid="jsw" creationdate="20150321T042308Z">
+        <seg>呼叫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Calling you...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014613Z" creationid="jsw" creationdate="20150321T014613Z">
         <seg>正在呼叫...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042300Z" creationid="jsw" creationdate="20150321T042300Z">
+        <seg>取消</seg>
       </tuv>
     </tu>
     <tu>
@@ -606,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compress Video</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042245Z" creationid="jsw" creationdate="20150321T042245Z">
+        <seg>压缩视频</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Connecting...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015612Z" creationid="jsw" creationdate="20150321T015612Z">
@@ -626,6 +690,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015516Z" creationid="jsw" creationdate="20150321T015516Z">
         <seg>联系人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042308Z" creationid="jsw" creationdate="20150321T042308Z">
+        <seg>复制</seg>
       </tuv>
     </tu>
     <tu>
@@ -682,6 +754,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T034956Z" creationid="jsw" creationdate="20150321T034956Z">
         <seg>删除本地化文件？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete photo</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042315Z" creationid="jsw" creationdate="20150321T042315Z">
+        <seg>删除图片</seg>
       </tuv>
     </tu>
     <tu>
@@ -758,10 +838,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Done</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042256Z" creationid="jsw" creationdate="20150321T042256Z">
+        <seg>完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022945Z" creationid="jsw" creationdate="20150321T022945Z">
         <seg>编辑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit Video</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042239Z" creationid="jsw" creationdate="20150321T042239Z">
+        <seg>编辑视频</seg>
       </tuv>
     </tu>
     <tu>
@@ -778,6 +874,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035224Z" creationid="jsw" creationdate="20150321T035224Z">
         <seg>编辑名字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edited Video</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042244Z" creationid="jsw" creationdate="20150321T042244Z">
+        <seg>编辑过的视频</seg>
       </tuv>
     </tu>
     <tu>
@@ -966,6 +1070,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Forward</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042311Z" creationid="jsw" creationdate="20150321T042311Z">
+        <seg>转发</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Forwarded message</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020153Z" creationid="jsw" creationdate="20150321T020153Z">
@@ -986,6 +1098,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020156Z" creationid="jsw" creationdate="20150321T020156Z">
         <seg>来自</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From camera</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042314Z" creationid="jsw" creationdate="20150321T042314Z">
+        <seg>拍照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From gallery</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042315Z" creationid="jsw" creationdate="20150321T042315Z">
+        <seg>从相册中选择</seg>
       </tuv>
     </tu>
     <tu>
@@ -1270,6 +1398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Logs out all devices except for this one.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042233Z" creationid="jsw" creationdate="20150321T042233Z">
+        <seg>注销该设备以外的其它所有设备。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Long</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035138Z" creationid="jsw" creationdate="20150321T035138Z">
@@ -1430,10 +1566,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Never Share</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042213Z" creationid="jsw" creationdate="20150321T042213Z">
+        <seg>黑名单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Never Share With</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042144Z" creationid="jsw" creationdate="20150321T042144Z">
         <seg>黑名单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Never share with users...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042216Z" creationid="jsw" creationdate="20150321T042216Z">
+        <seg>选择无法看见您上线时间的用户…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1474,6 +1626,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035454Z" creationid="jsw" creationdate="20150321T035454Z">
         <seg>新号码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042254Z" creationid="jsw" creationdate="20150321T042254Z">
+        <seg>下一步</seg>
       </tuv>
     </tu>
     <tu>
@@ -1630,6 +1790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042318Z" creationid="jsw" creationdate="20150321T042318Z">
+        <seg>确定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Off</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023035Z" creationid="jsw" creationdate="20150321T023035Z">
@@ -1650,6 +1818,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035121Z" creationid="jsw" creationdate="20150321T035121Z">
         <seg>只在屏幕打开时</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042259Z" creationid="jsw" creationdate="20150321T042259Z">
+        <seg>打开</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Original Video</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042243Z" creationid="jsw" creationdate="20150321T042243Z">
+        <seg>原始视频</seg>
       </tuv>
     </tu>
     <tu>
@@ -1846,6 +2030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Retry</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042311Z" creationid="jsw" creationdate="20150321T042311Z">
+        <seg>重试</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SD Card</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020052Z" creationid="jsw" creationdate="20150321T020052Z">
@@ -1966,6 +2158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Send</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042305Z" creationid="jsw" creationdate="20150321T042305Z">
+        <seg>发送</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Send Location</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035824Z" creationid="jsw" creationdate="20150321T035824Z">
@@ -1990,10 +2190,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sending video...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042253Z" creationid="jsw" creationdate="20150321T042245Z">
+        <seg>正在发送视频......</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Service notifications</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020248Z" creationid="jsw" creationdate="20150321T020248Z">
         <seg>服务通知</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042317Z" creationid="jsw" creationdate="20150321T042317Z">
+        <seg>设置</seg>
       </tuv>
     </tu>
     <tu>
@@ -2118,6 +2334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sorry, too many requests.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042222Z" creationid="jsw" creationdate="20150321T042222Z">
+        <seg>抱歉，请求过于频繁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sort By</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035036Z" creationid="jsw" creationdate="20150321T035036Z">
@@ -2186,6 +2410,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020135Z" creationid="jsw" creationdate="20150321T020135Z">
         <seg>拍照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tap and hold on user to delete.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042236Z" creationid="jsw" creationdate="20150321T042236Z">
+        <seg>长按用户以删除。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2262,6 +2494,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These settings will override the values above.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042148Z" creationid="jsw" creationdate="20150321T042148Z">
+        <seg>这部分例外设置将会覆盖上面的设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This image is a visualization of the encryption key for this secret chat with &lt;b&gt;%1$s&lt;/b&gt;.&lt;br&gt;&lt;br&gt;If this image looks the same on &lt;b&gt;%2$s's&lt;/b&gt; phone, your chat is 200%% secure.&lt;br&gt;&lt;br&gt;Learn more at telegram.org</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023157Z" creationid="jsw" creationdate="20150321T023157Z">
@@ -2282,6 +2522,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020047Z" creationid="jsw" creationdate="20150321T020047Z">
         <seg>已启用USB传输</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to change privacy settings now, please wait.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042230Z" creationid="jsw" creationdate="20150321T042230Z">
+        <seg>现在无法修改隐私设置，请稍等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2494,6 +2742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You added un2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042420Z" creationid="jsw" creationdate="20150321T042420Z">
+        <seg>您添加了 un2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can change your Telegram number here.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035313Z" creationid="jsw" creationdate="20150321T035313Z">
@@ -2510,10 +2766,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You changed the group name to un2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042437Z" creationid="jsw" creationdate="20150321T042437Z">
+        <seg>您将群组重命名为 un2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You changed the group photo</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042429Z" creationid="jsw" creationdate="20150321T042429Z">
+        <seg>您更改了群组图片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You created a broadcast list</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015945Z" creationid="jsw" creationdate="20150321T015945Z">
         <seg>您创建了一个广播名单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You created the group</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042443Z" creationid="jsw" creationdate="20150321T042443Z">
+        <seg>您创建了群组</seg>
       </tuv>
     </tu>
     <tu>
@@ -2550,10 +2830,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You left group</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042416Z" creationid="jsw" creationdate="20150321T042416Z">
+        <seg>您离开了群组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You left this group</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020240Z" creationid="jsw" creationdate="20150321T020240Z">
         <seg>您已经离开该群组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You removed the group photo</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042424Z" creationid="jsw" creationdate="20150321T042424Z">
+        <seg>您删除了群组图片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You removed un2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042412Z" creationid="jsw" creationdate="20150321T042412Z">
+        <seg>您已将 un2 移除</seg>
       </tuv>
     </tu>
     <tu>
@@ -2746,6 +3050,70 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020116Z" creationid="jsw" creationdate="20150321T020116Z">
         <seg>正在输入...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>un1 added un2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042348Z" creationid="jsw" creationdate="20150321T042348Z">
+        <seg>un1 添加了 un2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>un1 changed the group name to un2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042401Z" creationid="jsw" creationdate="20150321T042401Z">
+        <seg>un1 将群组重命名为 un2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>un1 changed the group photo</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042357Z" creationid="jsw" creationdate="20150321T042357Z">
+        <seg>un1 更换了群组图片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>un1 created the group</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042405Z" creationid="jsw" creationdate="20150321T042405Z">
+        <seg>un1 创建了群组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>un1 left group</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042344Z" creationid="jsw" creationdate="20150321T042344Z">
+        <seg>un1 已退出群组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>un1 removed the group photo</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042353Z" creationid="jsw" creationdate="20150321T042353Z">
+        <seg>un1 删除了群组图片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>un1 removed un2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042339Z" creationid="jsw" creationdate="20150321T042339Z">
+        <seg>un1 移除了 un2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>un1 removed you</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042450Z" creationid="jsw" creationdate="20150321T042450Z">
+        <seg>un1 已将您移除</seg>
       </tuv>
     </tu>
     <tu>
