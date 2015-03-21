@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>%1$s is available.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023407Z" creationid="jsw" creationdate="20150321T023407Z">
+        <seg>%1$s 可用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>%1$s is using an older version of Telegram, so secret photos will be shown in compatibility mode.\n\nOnce %2$s updates Telegram, photos with timers for 1 minute or less will start working in 'Tap and hold to view' mode, and you will be notified whenever the other party takes a screenshot.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015802Z" creationid="jsw" creationdate="20150321T015802Z">
@@ -294,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A username must have at least 5 characters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023217Z" creationid="jsw" creationdate="20150321T023217Z">
+        <seg>用户名必须至少包含5个字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Access error</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020018Z" creationid="jsw" creationdate="20150321T020018Z">
@@ -344,8 +360,8 @@
       <tuv lang="EN-US">
         <seg>An error occurred.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023021Z" creationid="jsw" creationdate="20150321T023021Z">
-        <seg>出现了一个错误。</seg>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023420Z" creationid="jsw" creationdate="20150321T023021Z">
+        <seg>发生了一个错误。</seg>
       </tuv>
     </tu>
     <tu>
@@ -354,6 +370,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020245Z" creationid="jsw" creationdate="20150321T020245Z">
         <seg>使用本地化文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ask a Question</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023434Z" creationid="jsw" creationdate="20150321T023434Z">
+        <seg>我有疑问</seg>
       </tuv>
     </tu>
     <tu>
@@ -378,6 +402,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015508Z" creationid="jsw" creationdate="20150321T015508Z">
         <seg>取消注册</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checking username...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023405Z" creationid="jsw" creationdate="20150321T023405Z">
+        <seg>正在检查用户名...</seg>
       </tuv>
     </tu>
     <tu>
@@ -506,6 +538,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022945Z" creationid="jsw" creationdate="20150321T022945Z">
         <seg>编辑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enable Animations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023440Z" creationid="jsw" creationdate="20150321T023440Z">
+        <seg>开启动画效果</seg>
       </tuv>
     </tu>
     <tu>
@@ -670,10 +710,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you do, other people will be able to find you by this username and contact you without knowing your phone number.&lt;br&gt;&lt;br&gt;You can use &lt;b&gt;a–z&lt;/b&gt;, &lt;b&gt;0–9&lt;/b&gt; and underscores.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023356Z" creationid="jsw" creationdate="20150321T023356Z">
+        <seg>如果您这样做，别人就可以藉由此用户名称找到您并与您联络，而不需要知道您的手机号码。&lt;br&gt;&lt;br&gt;您可以使用 &lt;b&gt;a–z&lt;/b&gt;，&lt;b&gt;0–9&lt;/b&gt; 及下划线。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In %1$s</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015916Z" creationid="jsw" creationdate="20150321T015916Z">
         <seg>在 %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Info</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023208Z" creationid="jsw" creationdate="20150321T023208Z">
+        <seg>个人信息</seg>
       </tuv>
     </tu>
     <tu>
@@ -738,6 +794,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020204Z" creationid="jsw" creationdate="20150321T020159Z">
         <seg>输入消息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Messages Text Size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023431Z" creationid="jsw" creationdate="20150321T023431Z">
+        <seg>消息文本大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum length is &lt;b&gt;5&lt;/b&gt; characters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023402Z" creationid="jsw" creationdate="20150321T023402Z">
+        <seg>最小长度是 &lt;b&gt;5&lt;/b&gt; 个字符。</seg>
       </tuv>
     </tu>
     <tu>
@@ -846,6 +918,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>None</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023411Z" creationid="jsw" creationdate="20150321T023411Z">
+        <seg>无</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Notifications</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022123Z" creationid="jsw" creationdate="20150321T022123Z">
@@ -866,6 +946,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023009Z" creationid="jsw" creationdate="20150321T023009Z">
         <seg>其它</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Phone</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023210Z" creationid="jsw" creationdate="20150321T023210Z">
+        <seg>号码</seg>
       </tuv>
     </tu>
     <tu>
@@ -906,6 +994,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021540Z" creationid="jsw" creationdate="20150321T021540Z">
         <seg>回复给 %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reset all notification settings to default</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023425Z" creationid="jsw" creationdate="20150321T023425Z">
+        <seg>重置所有通知设置为默认值</seg>
       </tuv>
     </tu>
     <tu>
@@ -1054,6 +1150,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sorry, a username can't start with a number.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023220Z" creationid="jsw" creationdate="20150321T023220Z">
+        <seg>抱歉，用户名不能以数字开头。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sorry, this username is already taken.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023214Z" creationid="jsw" creationdate="20150321T023214Z">
+        <seg>抱歉，该用户名已被占用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sorry, this username is invalid.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023215Z" creationid="jsw" creationdate="20150321T023215Z">
+        <seg>抱歉，该用户名无效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Start Secret Chat</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023017Z" creationid="jsw" creationdate="20150321T023017Z">
@@ -1110,6 +1230,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The username must not exceed 32 characters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023219Z" creationid="jsw" creationdate="20150321T023219Z">
+        <seg>用户名不能超过32个字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This image is a visualization of the encryption key for this secret chat with &lt;b&gt;%1$s&lt;/b&gt;.&lt;br&gt;&lt;br&gt;If this image looks the same on &lt;b&gt;%2$s's&lt;/b&gt; phone, your chat is 200%% secure.&lt;br&gt;&lt;br&gt;Learn more at telegram.org</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023157Z" creationid="jsw" creationdate="20150321T023157Z">
+        <seg>此图片是与 &lt;b&gt;%1$s&lt;/b&gt; 加密对话的加密密钥的可视化图片。&lt;br&gt;&lt;br&gt;若此图片与 &lt;b&gt;%2$s 的&lt;/b&gt; 手机上的图片一致，你们之间的聊天就是 200%% 安全的。&lt;br&gt;&lt;br&gt;了解更多请访问 telegram.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To send images without compression</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020103Z" creationid="jsw" creationdate="20150321T020103Z">
@@ -1122,6 +1258,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020047Z" creationid="jsw" creationdate="20150321T020047Z">
         <seg>已启用USB传输</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unknown</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023205Z" creationid="jsw" creationdate="20150321T023205Z">
+        <seg>未知</seg>
       </tuv>
     </tu>
     <tu>
@@ -1162,6 +1306,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020234Z" creationid="jsw" creationdate="20150321T020234Z">
         <seg>使用端到端加密</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Username</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023212Z" creationid="jsw" creationdate="20150321T023212Z">
+        <seg>用户名</seg>
       </tuv>
     </tu>
     <tu>
@@ -1230,6 +1382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can choose a username on &lt;b&gt;Telegram&lt;/b&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023254Z" creationid="jsw" creationdate="20150321T023254Z">
+        <seg>您可以在 &lt;b&gt;Telegram&lt;/b&gt; 上选择用户名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You created a broadcast list</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015945Z" creationid="jsw" creationdate="20150321T015945Z">
@@ -1290,6 +1450,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020239Z" creationid="jsw" creationdate="20150321T020239Z">
         <seg>您已经被踢出该群组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your Username</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023213Z" creationid="jsw" creationdate="20150321T023213Z">
+        <seg>您的用户名</seg>
       </tuv>
     </tu>
     <tu>
