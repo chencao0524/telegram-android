@@ -1582,6 +1582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We try to respond as quickly as possible, but it may take a while.&lt;br&gt;&lt;br&gt;Please take a look at the &lt;a href=\"http://telegram.org/faq#general\"&gt;Telegram FAQ&lt;/a&gt;: it has answers to most questions and important tips for &lt;a href=\"http://telegram.org/faq#troubleshooting\"&gt;troubleshooting&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T034548Z" creationid="jsw" creationdate="20150321T034548Z">
+        <seg>我们会试着尽快回复，但还是可能会需要一点时间。&lt;br&gt;&lt;br&gt;请见 &lt;a href=\"http://telegram.org/faq#general\"&gt;Telegram 常见问题&lt;/a&gt;：当中包含了大多数问题的答案与 &lt;a href=\"http://telegram.org/faq#troubleshooting\"&gt;疑难解答&lt;/a&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We will call you in %1$d:%2$02d</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014611Z" creationid="jsw" creationdate="20150321T014611Z">
