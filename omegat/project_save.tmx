@@ -686,6 +686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Didn't get the code?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014251Z" creationid="jsw" creationdate="20150321T014251Z">
+        <seg>未收到验证码？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Disable</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WIN-SUSJH1A88AJ\admin_000" changedate="20150321T013921Z" creationid="WIN-SUSJH1A88AJ\admin_000" creationdate="20150321T013921Z">
@@ -778,6 +786,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="WIN-SUSJH1A88AJ\admin_000" changedate="20150321T013921Z" creationid="WIN-SUSJH1A88AJ\admin_000" creationdate="20150321T013921Z">
         <seg>密钥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>English</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WIN-SUSJH1A88AJ\admin_000" changedate="20150321T013921Z" creationid="WIN-SUSJH1A88AJ\admin_000" creationdate="20150321T013921Z">
+        <seg>Chinese</seg>
       </tuv>
     </tu>
     <tu>
@@ -1942,6 +1958,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set up your first and last name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014308Z" creationid="jsw" creationdate="20150321T014308Z">
+        <seg>设置您的姓名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Settings</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WIN-SUSJH1A88AJ\admin_000" changedate="20150321T013921Z" creationid="WIN-SUSJH1A88AJ\admin_000" creationdate="20150321T013921Z">
@@ -2278,6 +2302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We've sent an SMS with an activation code to your phone</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014135Z" creationid="jsw" creationdate="20150321T014135Z">
+        <seg>我们发送了一条带有验证码的短信到您的手机</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When connected on Wi-Fi</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WIN-SUSJH1A88AJ\admin_000" changedate="20150321T013921Z" creationid="WIN-SUSJH1A88AJ\admin_000" creationdate="20150321T013921Z">
@@ -2330,6 +2362,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="WIN-SUSJH1A88AJ\admin_000" changedate="20150321T013921Z" creationid="WIN-SUSJH1A88AJ\admin_000" creationdate="20150321T013921Z">
         <seg>错误的国家区号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wrong number?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014203Z" creationid="jsw" creationdate="20150321T014203Z">
+        <seg>手机号码错误?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2496,8 +2536,8 @@
       <tuv lang="EN-US">
         <seg>Your name</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WIN-SUSJH1A88AJ\admin_000" changedate="20150321T013921Z" creationid="WIN-SUSJH1A88AJ\admin_000" creationdate="20150321T013921Z">
-        <seg>未收到验证码？</seg>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014235Z" creationid="WIN-SUSJH1A88AJ\admin_000" creationdate="20150321T013921Z">
+        <seg>您的姓名</seg>
       </tuv>
     </tu>
     <tu>
