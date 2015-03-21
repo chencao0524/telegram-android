@@ -742,6 +742,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In-App Sounds</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T024915Z" creationid="jsw" creationdate="20150321T024915Z">
+        <seg>程序内声音</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In-App Vibrate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T024921Z" creationid="jsw" creationdate="20150321T024921Z">
+        <seg>程序内振动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In-app notifications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T024909Z" creationid="jsw" creationdate="20150321T024909Z">
+        <seg>应用内通知</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Info</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023208Z" creationid="jsw" creationdate="20150321T023208Z">
@@ -1214,6 +1238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sound</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T024906Z" creationid="jsw" creationdate="20150321T024906Z">
+        <seg>声音</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Start Secret Chat</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023017Z" creationid="jsw" creationdate="20150321T023017Z">
@@ -1370,6 +1402,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023212Z" creationid="jsw" creationdate="20150321T023212Z">
         <seg>用户名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vibrate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T024925Z" creationid="jsw" creationdate="20150321T024925Z">
+        <seg>振动</seg>
       </tuv>
     </tu>
     <tu>
