@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Crop image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035922Z" creationid="jsw" creationdate="20150321T035922Z">
+        <seg>裁剪图片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Default</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T030524Z" creationid="jsw" creationdate="20150321T030524Z">
@@ -686,6 +694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edit image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035925Z" creationid="jsw" creationdate="20150321T035925Z">
+        <seg>编辑图片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit name</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035224Z" creationid="jsw" creationdate="20150321T035224Z">
@@ -722,6 +738,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014517Z" creationid="jsw" creationdate="20150321T014514Z">
         <seg>Chinese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enhance</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035932Z" creationid="jsw" creationdate="20150321T035932Z">
+        <seg>增强</seg>
       </tuv>
     </tu>
     <tu>
@@ -786,6 +810,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020050Z" creationid="jsw" creationdate="20150321T020050Z">
         <seg>外部存储器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FIND GIFS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035911Z" creationid="jsw" creationdate="20150321T035911Z">
+        <seg>查找GIF动态图片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FIND IMAGES</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035904Z" creationid="jsw" creationdate="20150321T035904Z">
+        <seg>查找图片</seg>
       </tuv>
     </tu>
     <tu>
@@ -1350,6 +1390,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No recent GIFs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035901Z" creationid="jsw" creationdate="20150321T035901Z">
+        <seg>最近沒有收到 GIF 动画</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No recent photos</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035855Z" creationid="jsw" creationdate="20150321T035855Z">
+        <seg>没有最近的照片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No results</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015532Z" creationid="jsw" creationdate="20150321T015532Z">
@@ -1482,6 +1538,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035540Z" creationid="jsw" creationdate="20150321T035540Z">
         <seg>请在转移至新号码前删除本号码，确保其是未注册的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please download media first</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035851Z" creationid="jsw" creationdate="20150321T035851Z">
+        <seg>请先下载媒体文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -1634,6 +1698,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015812Z" creationid="jsw" creationdate="20150321T015812Z">
         <seg>搜索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search GIFs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035919Z" creationid="jsw" creationdate="20150321T035919Z">
+        <seg>搜索图片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search web</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035913Z" creationid="jsw" creationdate="20150321T035913Z">
+        <seg>搜索网页</seg>
       </tuv>
     </tu>
     <tu>
@@ -2090,6 +2170,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020141Z" creationid="jsw" creationdate="20150321T020141Z">
         <seg>视频</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>WEB SEARCH</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035908Z" creationid="jsw" creationdate="20150321T035908Z">
+        <seg>网页搜索</seg>
       </tuv>
     </tu>
     <tu>
