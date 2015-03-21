@@ -38,10 +38,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>%1$s sent you a video</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020335Z" creationid="jsw" creationdate="20150321T020335Z">
+        <seg>%1$s 给您发送了一段视频</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>%1$s set the self-destruct timer to %2$s</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020249Z" creationid="jsw" creationdate="20150321T020249Z">
         <seg>%1$s 已将阅后即焚计时器设定为 %2$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$s shared a contact with you</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020400Z" creationid="jsw" creationdate="20150321T020347Z">
+        <seg>%1$s 与您分享了一个联系人</seg>
       </tuv>
     </tu>
     <tu>
