@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>%1$d/%2$d members</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022102Z" creationid="jsw" creationdate="20150321T022102Z">
+        <seg>%1$d/%2$d 成员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>%1$s %2$s</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021557Z" creationid="jsw" creationdate="20150321T021557Z">
@@ -294,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add member</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022114Z" creationid="jsw" creationdate="20150321T022114Z">
+        <seg>添加成员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add recipient</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015951Z" creationid="jsw" creationdate="20150321T015951Z">
@@ -382,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete and leave group</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022119Z" creationid="jsw" creationdate="20150321T022119Z">
+        <seg>删除并退出群组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete chat</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015739Z" creationid="jsw" creationdate="20150321T015739Z">
@@ -442,6 +466,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014517Z" creationid="jsw" creationdate="20150321T014514Z">
         <seg>Chinese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter group name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022051Z" creationid="jsw" creationdate="20150321T022051Z">
+        <seg>输入群组名称</seg>
       </tuv>
     </tu>
     <tu>
@@ -546,6 +578,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020133Z" creationid="jsw" creationdate="20150321T020133Z">
         <seg>对 Telegram 有疑问？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Group name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022058Z" creationid="jsw" creationdate="20150321T022058Z">
+        <seg>群组名称</seg>
       </tuv>
     </tu>
     <tu>
@@ -662,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New Message</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022041Z" creationid="jsw" creationdate="20150321T022041Z">
+        <seg>新建聊天</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New Secret Chat</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015722Z" creationid="jsw" creationdate="20150321T015636Z">
@@ -718,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Notifications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022123Z" creationid="jsw" creationdate="20150321T022123Z">
+        <seg>通知</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please confirm your country code and enter your phone number.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014536Z" creationid="jsw" creationdate="20150321T014536Z">
@@ -730,6 +786,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015957Z" creationid="jsw" creationdate="20150321T015957Z">
         <seg>从广播名单中移除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove from group</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022135Z" creationid="jsw" creationdate="20150321T022135Z">
+        <seg>从群组中移除</seg>
       </tuv>
     </tu>
     <tu>
@@ -822,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Send message to...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022045Z" creationid="jsw" creationdate="20150321T022045Z">
+        <seg>发送消息至...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Service notifications</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020248Z" creationid="jsw" creationdate="20150321T020248Z">
@@ -866,6 +938,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020206Z" creationid="jsw" creationdate="20150321T020206Z">
         <seg>分享我的联系人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shared Media</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022106Z" creationid="jsw" creationdate="20150321T022106Z">
+        <seg>分享的多媒体文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -1162,6 +1242,38 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021735Z" creationid="jsw" creationdate="20150321T021735Z">
         <seg>最近上线</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>last seen a long time ago</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022032Z" creationid="jsw" creationdate="20150321T022032Z">
+        <seg>很久以前上线过</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>last seen recently</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022017Z" creationid="jsw" creationdate="20150321T022017Z">
+        <seg>最近上线过</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>last seen within a month</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022027Z" creationid="jsw" creationdate="20150321T022027Z">
+        <seg>最近一个月内上线过</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>last seen within a week</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022023Z" creationid="jsw" creationdate="20150321T022023Z">
+        <seg>最近一周内上线过</seg>
       </tuv>
     </tu>
     <tu>
