@@ -6,10 +6,26 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>%s joined your secret chat.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015702Z" creationid="jsw" creationdate="20150321T015702Z">
+        <seg>%s 加入了您的私密对话。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Calling you...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014613Z" creationid="jsw" creationdate="20150321T014613Z">
         <seg>正在呼叫...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel registration</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015508Z" creationid="jsw" creationdate="20150321T015508Z">
+        <seg>取消注册</seg>
       </tuv>
     </tu>
     <tu>
@@ -30,6 +46,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connecting...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015612Z" creationid="jsw" creationdate="20150321T015612Z">
+        <seg>连接中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contacts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015516Z" creationid="jsw" creationdate="20150321T015516Z">
+        <seg>联系人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Didn't get the code?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014803Z" creationid="jsw" creationdate="20150321T014803Z">
@@ -46,6 +78,62 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exchanging encryption keys...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015652Z" creationid="jsw" creationdate="20150321T015652Z">
+        <seg>正在交换加密密钥...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>First name (required)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015500Z" creationid="jsw" creationdate="20150321T015500Z">
+        <seg>名字（必填）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Last name (optional)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015504Z" creationid="jsw" creationdate="20150321T015504Z">
+        <seg>姓氏（可选）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Group</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015522Z" creationid="jsw" creationdate="20150321T015522Z">
+        <seg>新建群组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Secret Chat</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015636Z" creationid="jsw" creationdate="20150321T015636Z">
+        <seg>新建加密对话</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No chats yet...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015541Z" creationid="jsw" creationdate="20150321T015541Z">
+        <seg>暂时还没有对话...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No results</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015532Z" creationid="jsw" creationdate="20150321T015532Z">
+        <seg>没有结果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please confirm your country code and enter your phone number.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014536Z" creationid="jsw" creationdate="20150321T014536Z">
@@ -54,10 +142,66 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Secret chat cancelled</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015718Z" creationid="jsw" creationdate="20150321T015645Z">
+        <seg>私密对话已取消</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set up your first and last name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015455Z" creationid="jsw" creationdate="20150321T015455Z">
+        <seg>设置您的姓名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Settings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015513Z" creationid="jsw" creationdate="20150321T015513Z">
+        <seg>设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start messaging by pressing the\nnew message button in the bottom right corner\nor tap the menu button for more options.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015546Z" creationid="jsw" creationdate="20150321T015546Z">
+        <seg>要开始聊天请点击右下角的新建聊天按钮\n，或点击左上角菜单按钮查看更多选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Telegram</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014449Z" creationid="jsw" creationdate="20150321T014449Z">
         <seg>Telegram</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Updating...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015621Z" creationid="jsw" creationdate="20150321T015621Z">
+        <seg>刷新中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Waiting for %s to get online...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015640Z" creationid="jsw" creationdate="20150321T015640Z">
+        <seg>等待%s上线...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Waiting for network...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015553Z" creationid="jsw" creationdate="20150321T015553Z">
+        <seg>等待网络...</seg>
       </tuv>
     </tu>
     <tu>
@@ -94,10 +238,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You joined the secret chat.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015711Z" creationid="jsw" creationdate="20150321T015711Z">
+        <seg>您已加入私密对话。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your code</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014559Z" creationid="jsw" creationdate="20150321T014559Z">
         <seg>验证码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015436Z" creationid="jsw" creationdate="20150321T015436Z">
+        <seg>您的姓名</seg>
       </tuv>
     </tu>
     <tu>
@@ -114,6 +274,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014520Z" creationid="jsw" creationdate="20150321T014520Z">
         <seg>zh_CN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>yesterday</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015525Z" creationid="jsw" creationdate="20150321T015525Z">
+        <seg>昨天</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
