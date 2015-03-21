@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>%1$d of %2$d</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035836Z" creationid="jsw" creationdate="20150321T035836Z">
+        <seg>第 %1$d 张，共 %2$d 张</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>%1$d/%2$d members</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022102Z" creationid="jsw" creationdate="20150321T022102Z">
@@ -366,6 +374,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All Photos</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035840Z" creationid="jsw" creationdate="20150321T035840Z">
+        <seg>全部图片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All secret chats will be lost.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035652Z" creationid="jsw" creationdate="20150321T035652Z">
+        <seg>重装之后将丢失所有的加密会话。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All your Telegram contacts will get your new number added to their address book, provided they had your old number and you haven't blocked them in Telegram.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035450Z" creationid="jsw" creationdate="20150321T035450Z">
@@ -410,6 +434,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T034915Z" creationid="jsw" creationdate="20150321T034915Z">
         <seg>询问志愿者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auto-lock</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035735Z" creationid="jsw" creationdate="20150321T035735Z">
+        <seg>自动锁定</seg>
       </tuv>
     </tu>
     <tu>
@@ -466,6 +498,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015508Z" creationid="jsw" creationdate="20150321T015508Z">
         <seg>取消注册</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change Passcode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035554Z" creationid="jsw" creationdate="20150321T035554Z">
+        <seg>修改密码</seg>
       </tuv>
     </tu>
     <tu>
@@ -624,8 +664,8 @@
       <tuv lang="EN-US">
         <seg>Disabled</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035006Z" creationid="jsw" creationdate="20150321T035006Z">
-        <seg>已禁用</seg>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035752Z" creationid="jsw" creationdate="20150321T035006Z">
+        <seg>关闭</seg>
       </tuv>
     </tu>
     <tu>
@@ -702,6 +742,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter your current passcode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035720Z" creationid="jsw" creationdate="20150321T035720Z">
+        <seg>输入你的当前密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter your new passcode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035724Z" creationid="jsw" creationdate="20150321T035724Z">
+        <seg>输入你要设置的新密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter your passcode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035726Z" creationid="jsw" creationdate="20150321T035726Z">
+        <seg>输入你的密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Events</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T030545Z" creationid="jsw" creationdate="20150321T030545Z">
@@ -738,6 +802,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020033Z" creationid="jsw" creationdate="20150321T020033Z">
         <seg>文件大小不能超过 %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035804Z" creationid="jsw" creationdate="20150321T035804Z">
+        <seg>仅显示文档</seg>
       </tuv>
     </tu>
     <tu>
@@ -870,6 +942,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hybrid</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035814Z" creationid="jsw" creationdate="20150321T035814Z">
+        <seg>混合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If Google Play Services are enough for you to receive notifications, you can disable Notifications Service.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035029Z" creationid="jsw" creationdate="20150321T035018Z">
@@ -954,6 +1034,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020049Z" creationid="jsw" creationdate="20150321T020049Z">
         <seg>内部存储器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid passcode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035730Z" creationid="jsw" creationdate="20150321T035730Z">
+        <seg>无效的密码（密码错误）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1050,6 +1138,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023013Z" creationid="jsw" creationdate="20150321T023013Z">
         <seg>主要的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Map</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035813Z" creationid="jsw" creationdate="20150321T035813Z">
+        <seg>地图</seg>
       </tuv>
     </tu>
     <tu>
@@ -1230,6 +1326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No photos yet</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035846Z" creationid="jsw" creationdate="20150321T035846Z">
+        <seg>还没有图片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No popup</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035117Z" creationid="jsw" creationdate="20150321T035117Z">
@@ -1326,6 +1430,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PIN</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035710Z" creationid="jsw" creationdate="20150321T035710Z">
+        <seg>PIN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Passcode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035552Z" creationid="jsw" creationdate="20150321T035552Z">
+        <seg>密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Passcodes do not match</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035731Z" creationid="jsw" creationdate="20150321T035731Z">
+        <seg>你两次输入的新密码不匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035715Z" creationid="jsw" creationdate="20150321T035715Z">
+        <seg>密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Phone</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023210Z" creationid="jsw" creationdate="20150321T023210Z">
@@ -1338,6 +1474,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014536Z" creationid="jsw" creationdate="20150321T014536Z">
         <seg>请确认您的国家代码，并输入您的手机号码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please delete that account before migrating to the new number.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035540Z" creationid="jsw" creationdate="20150321T035540Z">
+        <seg>请在转移至新号码前删除本号码，确保其是未注册的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1362,6 +1506,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035230Z" creationid="jsw" creationdate="20150321T035230Z">
         <seg>优先级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Re-enter your new passcode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035727Z" creationid="jsw" creationdate="20150321T035727Z">
+        <seg>再次输入你的新密码</seg>
       </tuv>
     </tu>
     <tu>
@@ -1406,6 +1558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Require passcode if away for a time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035738Z" creationid="jsw" creationdate="20150321T035738Z">
+        <seg>在离开一段时间后需要输入密码验证</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reset</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T030444Z" creationid="jsw" creationdate="20150321T030444Z">
@@ -1442,6 +1602,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020243Z" creationid="jsw" creationdate="20150321T020243Z">
         <seg>滑动以取消</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Satellite</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035813Z" creationid="jsw" creationdate="20150321T035813Z">
+        <seg>卫星</seg>
       </tuv>
     </tu>
     <tu>
@@ -1518,6 +1686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Send Location</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035824Z" creationid="jsw" creationdate="20150321T035824Z">
+        <seg>发送位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Send by Enter</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T030539Z" creationid="jsw" creationdate="20150321T030539Z">
@@ -1582,10 +1758,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Share Location</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035828Z" creationid="jsw" creationdate="20150321T035828Z">
+        <seg>分享位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Share files and documents in this chat and access them on any of your devices.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035810Z" creationid="jsw" creationdate="20150321T035810Z">
+        <seg>分享这个聊天的文件和文档并可在你的任何设备上查看</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Share my contact</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020206Z" creationid="jsw" creationdate="20150321T020206Z">
         <seg>分享我的联系人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Share photos and videos in this chat and access them on any of your devices.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035802Z" creationid="jsw" creationdate="20150321T035802Z">
+        <seg>分享这个聊天的图片和视频并可在你的任何设备上查看</seg>
       </tuv>
     </tu>
     <tu>
@@ -1602,6 +1802,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035136Z" creationid="jsw" creationdate="20150321T035136Z">
         <seg>短</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show all media</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035831Z" creationid="jsw" creationdate="20150321T035831Z">
+        <seg>显示所有多媒体</seg>
       </tuv>
     </tu>
     <tu>
@@ -1714,6 +1922,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015752Z" creationid="jsw" creationdate="20150321T015752Z">
         <seg>点击并按住以查看</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tap it to lock and unlock your Telegram app.\n\nNote: if you forget the passcode, you'll need to delete and reinstall the app.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035635Z" creationid="jsw" creationdate="20150321T035623Z">
+        <seg>轻触它就可以锁定或解锁Telegram。\n\n注意：如果您忘记这个密码，你必须得删除然后重新安装Telegram。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tap it to lock your Telegram app with your new passcode.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035705Z" creationid="jsw" creationdate="20150321T035705Z">
+        <seg>轻触它就可以凭设置的密码锁定或解锁Telegram。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1942,6 +2166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you set up an additional passcode, a lock icon will appear on the chats page.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035604Z" creationid="jsw" creationdate="20150321T035558Z">
+        <seg>当您设置好一个附加密码后，一把锁图标将会出现在聊天页面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Work</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023005Z" creationid="jsw" creationdate="20150321T023005Z">
@@ -2046,6 +2278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You will now see a lock icon on the chats page.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035658Z" creationid="jsw" creationdate="20150321T035658Z">
+        <seg>你将在聊天页面看见一把锁的图标，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your Username</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023213Z" creationid="jsw" creationdate="20150321T023213Z">
@@ -2118,6 +2358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>in %1$s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035746Z" creationid="jsw" creationdate="20150321T035746Z">
+        <seg>在 %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>invisible</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020111Z" creationid="jsw" creationdate="20150321T020111Z">
@@ -2130,6 +2378,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020127Z" creationid="jsw" creationdate="20150321T020127Z">
         <seg>正在输入...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>km away</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035817Z" creationid="jsw" creationdate="20150321T035817Z">
+        <seg>千米以外</seg>
       </tuv>
     </tu>
     <tu>
@@ -2170,6 +2426,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022023Z" creationid="jsw" creationdate="20150321T022023Z">
         <seg>最近一周内上线过</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>m away</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035816Z" creationid="jsw" creationdate="20150321T035816Z">
+        <seg>米以外</seg>
       </tuv>
     </tu>
     <tu>
