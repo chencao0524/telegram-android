@@ -6,10 +6,210 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>%1$d day</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T043030Z" creationid="jsw" creationdate="20150321T043030Z">
+        <seg>%1$d 天</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$d days</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T043028Z" creationid="jsw" creationdate="20150321T043028Z">
+        <seg>%1$d 天</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$d forwarded files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T043125Z" creationid="jsw" creationdate="20150321T043125Z">
+        <seg>%1$d 已转发的文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$d forwarded messages</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T043112Z" creationid="jsw" creationdate="20150321T043112Z">
+        <seg>%1$d 已转发的消息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$d hour</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T043024Z" creationid="jsw" creationdate="20150321T043024Z">
+        <seg>%1$d 小时</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$d hours</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T043021Z" creationid="jsw" creationdate="20150321T043021Z">
+        <seg>%1$d 小时</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$d member</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042911Z" creationid="jsw" creationdate="20150321T042911Z">
+        <seg>%1$d 个成员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$d members</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042915Z" creationid="jsw" creationdate="20150321T042915Z">
+        <seg>%1$d 个成员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$d message</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042942Z" creationid="jsw" creationdate="20150321T042942Z">
+        <seg>%1$d 条消息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$d messages</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042946Z" creationid="jsw" creationdate="20150321T042946Z">
+        <seg>%1$d 条消息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$d minute</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T043016Z" creationid="jsw" creationdate="20150321T043016Z">
+        <seg>%1$d 分钟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$d minutes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T043015Z" creationid="jsw" creationdate="20150321T043015Z">
+        <seg>%1$d 分钟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$d month</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T043046Z" creationid="jsw" creationdate="20150321T043046Z">
+        <seg>%1$d 个月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$d months</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T043044Z" creationid="jsw" creationdate="20150321T043044Z">
+        <seg>%1$d 个月</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$d new message</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042931Z" creationid="jsw" creationdate="20150321T042931Z">
+        <seg>%1$d 条新消息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$d new messages</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042933Z" creationid="jsw" creationdate="20150321T042933Z">
+        <seg>%1$d 条新消息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>%1$d of %2$d</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035836Z" creationid="jsw" creationdate="20150321T035836Z">
         <seg>第 %1$d 张，共 %2$d 张</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$d online</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042851Z" creationid="jsw" creationdate="20150321T042851Z">
+        <seg>%1$d 在线</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$d second</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T043011Z" creationid="jsw" creationdate="20150321T043011Z">
+        <seg>%1$d 秒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$d seconds</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T043008Z" creationid="jsw" creationdate="20150321T043008Z">
+        <seg>%1$d 秒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$d user</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T043058Z" creationid="jsw" creationdate="20150321T043058Z">
+        <seg>%1$d 个用户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$d users</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T043057Z" creationid="jsw" creationdate="20150321T043057Z">
+        <seg>%1$d 个用户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$d week</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T043037Z" creationid="jsw" creationdate="20150321T043037Z">
+        <seg>%1$d 周</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$d weeks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T043034Z" creationid="jsw" creationdate="20150321T043034Z">
+        <seg>%1$d 周</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$d year</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T043051Z" creationid="jsw" creationdate="20150321T043051Z">
+        <seg>%1$d 年</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$d years</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T043050Z" creationid="jsw" creationdate="20150321T043050Z">
+        <seg>%1$d 年</seg>
       </tuv>
     </tu>
     <tu>
@@ -1234,6 +1434,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042628Z" creationid="jsw" creationdate="20150321T042628Z">
         <seg>转发信息给%1$s？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Forwarded file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T043132Z" creationid="jsw" creationdate="20150321T043132Z">
+        <seg>已转发的文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -2622,6 +2830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Start Messaging</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042846Z" creationid="jsw" creationdate="20150321T042846Z">
+        <seg>开始聊天</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Start Secret Chat</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023017Z" creationid="jsw" creationdate="20150321T023017Z">
@@ -3262,6 +3478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>and %1$d more people are typing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042921Z" creationid="jsw" creationdate="20150321T042921Z">
+        <seg>超过 %1$d 个人在输入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>are typing...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020131Z" creationid="jsw" creationdate="20150321T020131Z">
@@ -3370,6 +3594,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035816Z" creationid="jsw" creationdate="20150321T035816Z">
         <seg>米以外</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>no members</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042904Z" creationid="jsw" creationdate="20150321T042904Z">
+        <seg>没有成员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>no messages</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042938Z" creationid="jsw" creationdate="20150321T042938Z">
+        <seg>没有消息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>no new messages</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042927Z" creationid="jsw" creationdate="20150321T042927Z">
+        <seg>没有新消息</seg>
       </tuv>
     </tu>
     <tu>
