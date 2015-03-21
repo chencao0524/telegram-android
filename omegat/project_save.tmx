@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ask a volunteer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T034915Z" creationid="jsw" creationdate="20150321T034915Z">
+        <seg>询问志愿者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Block</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022941Z" creationid="jsw" creationdate="20150321T022941Z">
@@ -1438,6 +1446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Telegram FAQ</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T034917Z" creationid="jsw" creationdate="20150321T034917Z">
+        <seg>Telegram 常见问题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Terminate All Other Sessions</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T030542Z" creationid="jsw" creationdate="20150321T030542Z">
@@ -1754,6 +1770,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014520Z" creationid="jsw" creationdate="20150321T014520Z">
         <seg>zh_CN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>https://telegram.org/faq</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T034920Z" creationid="jsw" creationdate="20150321T034920Z">
+        <seg>https://telegram.org/faq</seg>
       </tuv>
     </tu>
     <tu>
