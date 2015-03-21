@@ -302,6 +302,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022926Z" creationid="jsw" creationdate="20150321T022926Z">
+        <seg>添加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add contact</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022934Z" creationid="jsw" creationdate="20150321T022934Z">
+        <seg>添加联系人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add member</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022114Z" creationid="jsw" creationdate="20150321T022114Z">
@@ -326,10 +342,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An error occurred.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023021Z" creationid="jsw" creationdate="20150321T023021Z">
+        <seg>出现了一个错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apply localization file</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020245Z" creationid="jsw" creationdate="20150321T020245Z">
         <seg>使用本地化文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Block</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022941Z" creationid="jsw" creationdate="20150321T022941Z">
+        <seg>屏蔽</seg>
       </tuv>
     </tu>
     <tu>
@@ -386,6 +418,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015516Z" creationid="jsw" creationdate="20150321T015516Z">
         <seg>联系人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022951Z" creationid="jsw" creationdate="20150321T022951Z">
+        <seg>删除</seg>
       </tuv>
     </tu>
     <tu>
@@ -458,6 +498,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020237Z" creationid="jsw" creationdate="20150321T020237Z">
         <seg>不允许转发消息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022945Z" creationid="jsw" creationdate="20150321T022945Z">
+        <seg>编辑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Encryption Key</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023028Z" creationid="jsw" creationdate="20150321T023028Z">
+        <seg>密钥</seg>
       </tuv>
     </tu>
     <tu>
@@ -606,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Home</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022958Z" creationid="jsw" creationdate="20150321T022958Z">
+        <seg>家庭电话</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In %1$s</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015916Z" creationid="jsw" creationdate="20150321T015916Z">
@@ -662,10 +726,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Main</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023013Z" creationid="jsw" creationdate="20150321T023013Z">
+        <seg>主要的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Message</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020204Z" creationid="jsw" creationdate="20150321T020159Z">
         <seg>输入消息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mobile</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023001Z" creationid="jsw" creationdate="20150321T023001Z">
+        <seg>手机</seg>
       </tuv>
     </tu>
     <tu>
@@ -770,6 +850,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022123Z" creationid="jsw" creationdate="20150321T022123Z">
         <seg>通知</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Off</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023035Z" creationid="jsw" creationdate="20150321T023035Z">
+        <seg>关闭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023009Z" creationid="jsw" creationdate="20150321T023009Z">
+        <seg>其它</seg>
       </tuv>
     </tu>
     <tu>
@@ -886,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Self-Destruct Timer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023031Z" creationid="jsw" creationdate="20150321T023031Z">
+        <seg>阅后即焚计时器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Send message to...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022045Z" creationid="jsw" creationdate="20150321T022045Z">
@@ -946,6 +1050,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022106Z" creationid="jsw" creationdate="20150321T022106Z">
         <seg>分享的多媒体文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Start Secret Chat</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023017Z" creationid="jsw" creationdate="20150321T023017Z">
+        <seg>开始加密对话</seg>
       </tuv>
     </tu>
     <tu>
@@ -1090,6 +1202,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014609Z" creationid="jsw" creationdate="20150321T014609Z">
         <seg>我们发送了一条带有验证码的短信到您的手机</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Work</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023005Z" creationid="jsw" creationdate="20150321T023005Z">
+        <seg>工作</seg>
       </tuv>
     </tu>
     <tu>
