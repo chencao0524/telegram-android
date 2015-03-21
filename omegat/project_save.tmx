@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Didn't get the code?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014803Z" creationid="jsw" creationdate="20150321T014803Z">
+        <seg>未收到验证码？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>English</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014517Z" creationid="jsw" creationdate="20150321T014514Z">
@@ -74,6 +82,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014555Z" creationid="jsw" creationdate="20150321T014555Z">
         <seg>错误的国家区号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wrong number?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014753Z" creationid="jsw" creationdate="20150321T014753Z">
+        <seg>号码错误？</seg>
       </tuv>
     </tu>
     <tu>
