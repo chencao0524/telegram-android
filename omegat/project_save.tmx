@@ -1944,6 +1944,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Link copied to clipboard</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T140351Z" creationid="jsw" creationdate="20150509T140351Z">
+        <seg>邀请链接已复制到剪贴板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Loading...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042543Z" creationid="jsw" creationdate="20150321T042543Z">
@@ -2972,6 +2980,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042754Z" creationid="jsw" creationdate="20150321T042754Z">
         <seg>抱歉，该功能在您的国家暂时不可用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sorry, this group does not seem to exist.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T140332Z" creationid="jsw" creationdate="20150509T140332Z">
+        <seg>对不起，这个群组不存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sorry, this group is already full.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T140323Z" creationid="jsw" creationdate="20150509T140323Z">
+        <seg>对不起，这个群组已经满员。</seg>
       </tuv>
     </tu>
     <tu>
