@@ -952,6 +952,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blur</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T141029Z" creationid="jsw" creationdate="20150509T141029Z">
+        <seg>模糊化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CHANGE NUMBER</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035453Z" creationid="jsw" creationdate="20150321T035453Z">
@@ -1112,6 +1120,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Contrast</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T140954Z" creationid="jsw" creationdate="20150509T140954Z">
+        <seg>对比度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copy</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042308Z" creationid="jsw" creationdate="20150321T042308Z">
@@ -1234,8 +1250,8 @@
       <tuv lang="EN-US">
         <seg>Disabled</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035752Z" creationid="jsw" creationdate="20150321T035006Z">
-        <seg>关闭</seg>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T140828Z" creationid="jsw" creationdate="20150321T035006Z">
+        <seg>禁用</seg>
       </tuv>
     </tu>
     <tu>
@@ -1346,8 +1362,8 @@
       <tuv lang="EN-US">
         <seg>English</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014517Z" creationid="jsw" creationdate="20150321T014514Z">
-        <seg>Chinese</seg>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T140741Z" creationid="jsw" creationdate="20150321T014514Z">
+        <seg>简体中文</seg>
       </tuv>
     </tu>
     <tu>
@@ -1428,6 +1444,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015652Z" creationid="jsw" creationdate="20150321T015652Z">
         <seg>正在交换加密密钥...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exposure</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T141003Z" creationid="jsw" creationdate="20150509T141003Z">
+        <seg>曝光度</seg>
       </tuv>
     </tu>
     <tu>
@@ -1664,6 +1688,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Grain</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T141020Z" creationid="jsw" creationdate="20150509T141020Z">
+        <seg>增益</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Group name</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022058Z" creationid="jsw" creationdate="20150321T022058Z">
@@ -1708,6 +1740,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035240Z" creationid="jsw" creationdate="20150321T035240Z">
         <seg>高</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Highlights</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T140908Z" creationid="jsw" creationdate="20150509T140858Z">
+        <seg>亮度</seg>
       </tuv>
     </tu>
     <tu>
@@ -1940,6 +1980,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020235Z" creationid="jsw" creationdate="20150321T020235Z">
         <seg>不在服务器上留下记录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Linear</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T141042Z" creationid="jsw" creationdate="20150509T141042Z">
+        <seg>线性模糊</seg>
       </tuv>
     </tu>
     <tu>
@@ -2456,6 +2504,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PEBBLE</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T140802Z" creationid="jsw" creationdate="20150509T140802Z">
+        <seg>PEBBLE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>PIN</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035710Z" creationid="jsw" creationdate="20150321T035710Z">
@@ -2592,6 +2648,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Radial</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T141057Z" creationid="jsw" creationdate="20150509T141057Z">
+        <seg>放射性模糊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Re-enter your new passcode</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035727Z" creationid="jsw" creationdate="20150321T035727Z">
@@ -2700,6 +2764,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035813Z" creationid="jsw" creationdate="20150321T035813Z">
         <seg>卫星</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Saturation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T141009Z" creationid="jsw" creationdate="20150509T141009Z">
+        <seg>饱和度</seg>
       </tuv>
     </tu>
     <tu>
@@ -2904,6 +2976,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shadows</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T141017Z" creationid="jsw" creationdate="20150509T141017Z">
+        <seg>阴影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Share</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020244Z" creationid="jsw" creationdate="20150321T020244Z">
@@ -2948,6 +3028,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022106Z" creationid="jsw" creationdate="20150321T022106Z">
         <seg>分享的多媒体文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sharpen</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T141028Z" creationid="jsw" creationdate="20150509T141028Z">
+        <seg>锐化</seg>
       </tuv>
     </tu>
     <tu>
@@ -3352,6 +3440,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Vignette</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T141012Z" creationid="jsw" creationdate="20150509T141012Z">
+        <seg>背景虚光</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>WEB SEARCH</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035908Z" creationid="jsw" creationdate="20150321T035908Z">
@@ -3372,6 +3468,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015553Z" creationid="jsw" creationdate="20150321T015553Z">
         <seg>等待网络...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Warmth</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T141008Z" creationid="jsw" creationdate="20150509T141008Z">
+        <seg>色温</seg>
       </tuv>
     </tu>
     <tu>
