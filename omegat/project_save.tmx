@@ -102,6 +102,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>%1$d item</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T141606Z" creationid="jsw" creationdate="20150509T141606Z">
+        <seg>选中 %1$d 个项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$d items</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T141612Z" creationid="jsw" creationdate="20150509T141612Z">
+        <seg>选中 %1$d 个项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>%1$d member</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042911Z" creationid="jsw" creationdate="20150321T042911Z">
@@ -580,6 +596,54 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015702Z" creationid="jsw" creationdate="20150321T015702Z">
         <seg>%s 加入了您的私密对话。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b&gt;Telegram&lt;/b&gt; delivers messages faster than&lt;br/&gt;any other application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T141321Z" creationid="jsw" creationdate="20150509T141321Z">
+        <seg>&lt;b&gt;Telegram&lt;/b&gt; 收发信息&lt;br/&gt;快过其它任何软件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b&gt;Telegram&lt;/b&gt; has no limits on the size of&lt;br/&gt;your media and chats.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T141507Z" creationid="jsw" creationdate="20150509T141446Z">
+        <seg>&lt;b&gt;Telegram&lt;/b&gt; 对消息与多媒体 &lt;br/&gt; 没有任何大小限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b&gt;Telegram&lt;/b&gt; is free forever.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T141338Z" creationid="jsw" creationdate="20150509T141338Z">
+        <seg>&lt;b&gt;Telegram&lt;/b&gt; 永久免费。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b&gt;Telegram&lt;/b&gt; keeps your messages safe&lt;br/&gt;from hacker attacks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T141428Z" creationid="jsw" creationdate="20150509T141428Z">
+        <seg>&lt;b&gt;Telegram&lt;/b&gt; 保障您的消息安全&lt;br/&gt;远离黑客攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b&gt;Telegram&lt;/b&gt; lets you access your messages&lt;br/&gt;from multiple devices.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T141504Z" creationid="jsw" creationdate="20150509T141504Z">
+        <seg>&lt;b&gt;Telegram&lt;/b&gt; 让您可以从多个设备中 &lt;br/&gt; 收发您的消息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b&gt;Telegram&lt;/b&gt; messages are heavily encrypted&lt;br/&gt;and can self-destruct.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T141530Z" creationid="jsw" creationdate="20150509T141530Z">
+        <seg>&lt;b&gt;Telegram&lt;/b&gt;私密的信息经过高强度加密&lt;br/&gt;并且支持阅后即焚</seg>
       </tuv>
     </tu>
     <tu>
@@ -1546,8 +1610,8 @@
       <tuv lang="EN-US">
         <seg>Forward messages to %1$s?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042628Z" creationid="jsw" creationdate="20150321T042628Z">
-        <seg>转发信息给%1$s？</seg>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T141125Z" creationid="jsw" creationdate="20150321T042628Z">
+        <seg>要把消息转发给%1$s 吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -2292,6 +2356,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042254Z" creationid="jsw" creationdate="20150321T042254Z">
         <seg>下一步</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No ads.&lt;br/&gt;No subscription fees.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T141402Z" creationid="jsw" creationdate="20150509T141402Z">
+        <seg>无广告。&lt;br/&gt;无须收费订阅。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3280,6 +3352,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The world's &lt;b&gt;fastest&lt;/b&gt; messaging app.&lt;br/&gt;It is &lt;b&gt;free&lt;/b&gt; and &lt;b&gt;secure&lt;/b&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T141216Z" creationid="jsw" creationdate="20150509T141216Z">
+        <seg>世界上&lt;b&gt;最快&lt;/b&gt;的聊天软件。&lt;br/&gt;&lt;b&gt;免费&lt;/b&gt;并且&lt;b&gt;安全&lt;/b&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These settings will override the values above.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042148Z" creationid="jsw" creationdate="20150321T042148Z">
@@ -3932,6 +4012,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035816Z" creationid="jsw" creationdate="20150321T035816Z">
         <seg>米以外</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>no items</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T141549Z" creationid="jsw" creationdate="20150509T141549Z">
+        <seg>没有选中任何项目</seg>
       </tuv>
     </tu>
     <tu>
