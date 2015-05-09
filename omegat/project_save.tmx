@@ -3880,6 +3880,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>and %1$d other</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T141718Z" creationid="jsw" creationdate="20150509T141718Z">
+        <seg>和其他的 %1$d 个</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and %1$d others</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T141727Z" creationid="jsw" creationdate="20150509T141707Z">
+        <seg>和其他的 %1$d 个</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>are typing...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020131Z" creationid="jsw" creationdate="20150321T020131Z">
@@ -3916,6 +3932,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014520Z" creationid="jsw" creationdate="20150321T014520Z">
         <seg>zh_CN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>from %1$d chat</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T141638Z" creationid="jsw" creationdate="20150509T141638Z">
+        <seg>来自 %1$d 个聊天记录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>from %1$d chats</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T141640Z" creationid="jsw" creationdate="20150509T141640Z">
+        <seg>来自 %1$d 个聊天记录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>from no chats</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T141624Z" creationid="jsw" creationdate="20150509T141624Z">
+        <seg>没有聊天记录</seg>
       </tuv>
     </tu>
     <tu>
@@ -4167,5 +4207,15 @@
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">strings.xml</prop>
+      <prop type="id">AndOther_zero</prop>
+      <tuv lang="EN-US">
+        <seg>and %1$d others</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T141745Z" creationid="jsw" creationdate="20150509T141745Z">
+        <seg>和其他</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
