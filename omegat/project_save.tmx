@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>%1$s joined to the group %2$s via invite link</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T135931Z" creationid="jsw" creationdate="20150509T135931Z">
+        <seg>%1$s 已经通过邀请链接加入 %2$s 群组。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>%1$s removed %3$s from the group %2$s</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021445Z" creationid="jsw" creationdate="20150321T021445Z">
@@ -530,6 +538,16 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021523Z" creationid="jsw" creationdate="20150321T021523Z">
         <seg>%1$s 更新了头像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$s,\nWe detected a login into your account from a new device on %2$s\n\nDevice: %3$s\nLocation: %4$s\n\nIf this wasn't you, you can go to Settings - Privacy and Security - Sessions and terminate that session.\n\nIf you think that somebody logged in to your account against your will, you can enable two-step verification in Privacy and Security settings.\n\nSincerely,\nThe Telegram Team</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T135754Z" creationid="jsw" creationdate="20150509T135754Z">
+        <seg>%4$s\n\nIf this wasn't you, you can go to Settings - Privacy and Security - Sessions and terminate that session.\n\nIf you think that somebody logged in to your account against your will, you can enable two-step verification in Privacy and Security settings.\n\nSincerely,\nThe Telegram Team
+%1$s，\n我们发现您的账号在 %2$s 从新的设备登录\n\n设备： %3$s\n位置： %4$s\n\n如果这不是您本人，您可以到「设置—注销所有其它设备上的会话」注销其登录\n\n此致，\nTelegram 团队
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -1238,6 +1256,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you want to join the group '%1$s'?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T140023Z" creationid="jsw" creationdate="20150509T140023Z">
+        <seg>您想要加入 '%1$s' 群组吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Done</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042256Z" creationid="jsw" creationdate="20150321T042256Z">
@@ -1618,6 +1644,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020139Z" creationid="jsw" creationdate="20150321T020139Z">
         <seg>相册</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Getting Link Info...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T135723Z" creationid="jsw" creationdate="20150509T135723Z">
+        <seg>正在获取连接信息...</seg>
       </tuv>
     </tu>
     <tu>
