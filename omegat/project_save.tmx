@@ -4217,5 +4217,15 @@
         <seg>和其他</seg>
       </tuv>
     </tu>
+    <tu>
+      <prop type="file">strings.xml</prop>
+      <prop type="id">LanguageNameInEnglish</prop>
+      <tuv lang="EN-US">
+        <seg>English</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T142226Z" creationid="jsw" creationdate="20150509T142226Z">
+        <seg>Chinese</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
