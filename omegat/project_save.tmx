@@ -150,6 +150,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>%1$d meter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T005305Z" creationid="jsw" creationdate="20150516T005305Z">
+        <seg>%1$d 米</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$d meters</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T005302Z" creationid="jsw" creationdate="20150516T005302Z">
+        <seg>%1$d 米</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>%1$d minute</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T043016Z" creationid="jsw" creationdate="20150321T043016Z">
@@ -226,6 +242,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T043008Z" creationid="jsw" creationdate="20150321T043008Z">
         <seg>%1$d 秒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$d time</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T005259Z" creationid="jsw" creationdate="20150516T005259Z">
+        <seg>%1$d 次</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$d times</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T005255Z" creationid="jsw" creationdate="20150516T005255Z">
+        <seg>%1$d 次</seg>
       </tuv>
     </tu>
     <tu>
@@ -3112,6 +3144,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please send an email to sms@stel.com and tell us about your problem.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T005248Z" creationid="jsw" creationdate="20150516T005248Z">
+        <seg>请发送邮件到 sms@stel.com 来告诉我们您遇到的问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please send an email to sms@telegram.org and tell us about your problem.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042555Z" creationid="jsw" creationdate="20150321T042555Z">
@@ -3912,6 +3952,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Telegram for Android has been updated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T005346Z" creationid="jsw" creationdate="20150516T005346Z">
+        <seg>Telegram for Android 已升级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Terminate All Other Sessions</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T030542Z" creationid="jsw" creationdate="20150321T030542Z">
@@ -4012,6 +4060,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020103Z" creationid="jsw" creationdate="20150321T020103Z">
         <seg>发送原图片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Too many attempts, please try again in %1$s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T005215Z" creationid="jsw" creationdate="20150516T005215Z">
+        <seg>尝试次数过多，请在 %1$s 后重试</seg>
       </tuv>
     </tu>
     <tu>
