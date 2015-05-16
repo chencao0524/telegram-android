@@ -696,6 +696,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Abort two-step verification setup</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T004327Z" creationid="jsw" creationdate="20150516T004327Z">
+        <seg>关于两步验证设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Access error</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020018Z" creationid="jsw" creationdate="20150321T020018Z">
@@ -992,6 +1000,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are you sure you want to disable your password?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T004304Z" creationid="jsw" creationdate="20150516T004304Z">
+        <seg>您确定要删除您的密码吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you sure you want to log out?\n\nNote that you can seamlessly use Telegram on all your devices at once.\n\nRemember, logging out kills all your Secret Chats.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042638Z" creationid="jsw" creationdate="20150321T042638Z">
@@ -1184,6 +1200,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change Password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T004225Z" creationid="jsw" creationdate="20150516T004225Z">
+        <seg>更改密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Change Recovery E-Mail</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T004250Z" creationid="jsw" creationdate="20150516T004250Z">
+        <seg>更改恢复邮箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Change who can see your Last Seen time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042118Z" creationid="jsw" creationdate="20150321T042118Z">
@@ -1196,6 +1228,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T030531Z" creationid="jsw" creationdate="20150321T030531Z">
         <seg>对话背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check your e-mail (don't forget the spam folder)\n%1$s\n\n2.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T004431Z" creationid="jsw" creationdate="20150516T004431Z">
+        <seg>查看您的邮件 (不要忘记垃圾邮件箱)\n%1$s\n\n2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1236,6 +1276,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T003717Z" creationid="jsw" creationdate="20150516T003717Z">
         <seg>清空搜索历史？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click on the validation link.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T004442Z" creationid="jsw" creationdate="20150516T004442Z">
+        <seg>点击验证链接。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1976,6 +2024,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hint must be different from your password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T004449Z" creationid="jsw" creationdate="20150516T004449Z">
+        <seg>密码提示必须与密码本身不同</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Home</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022958Z" creationid="jsw" creationdate="20150321T022958Z">
@@ -2124,6 +2180,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042535Z" creationid="jsw" creationdate="20150321T042535Z">
         <seg>无效的验证码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid e-mail</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T004453Z" creationid="jsw" creationdate="20150516T004453Z">
+        <seg>无效的邮箱</seg>
       </tuv>
     </tu>
     <tu>
@@ -2864,6 +2928,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Password Hint</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T004308Z" creationid="jsw" creationdate="20150516T004308Z">
+        <seg>密码提示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Passwords do not match</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T004320Z" creationid="jsw" creationdate="20150516T004320Z">
+        <seg>密码不正确</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Phone</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023210Z" creationid="jsw" creationdate="20150321T023210Z">
@@ -2904,10 +2984,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please check your e-mail (don't forget the spam folder) to complete Two-Step Verification setup.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T004156Z" creationid="jsw" creationdate="20150516T004156Z">
+        <seg>请接收你的邮件（不要忘记垃圾邮件箱）以完成两部验证设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please check your e-mail and enter the 6-digit code we have sent here.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T004637Z" creationid="jsw" creationdate="20150516T004637Z">
+        <seg>请查阅您的邮件并再次输入我们发送给您的六位数字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please confirm your country code and enter your phone number.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014536Z" creationid="jsw" creationdate="20150321T014536Z">
         <seg>请确认您的国家代码，并输入您的手机号码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please create a hint for your password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T004313Z" creationid="jsw" creationdate="20150516T004313Z">
+        <seg>请创建一个密码提示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2940,6 +3044,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T003905Z" creationid="jsw" creationdate="20150516T003905Z">
         <seg>请输入你的密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please follow these steps to complete Two-Step Verification Setup:\n\n1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T004416Z" creationid="jsw" creationdate="20150516T004416Z">
+        <seg>请遵循以下步骤以完成两步验证设置：\n\n1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3360,6 +3472,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set Recovery E-Mail</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T004244Z" creationid="jsw" creationdate="20150516T004244Z">
+        <seg>设置恢复邮箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set self-destruct timer</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020247Z" creationid="jsw" creationdate="20150321T020247Z">
@@ -3480,6 +3600,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since you haven't provided a recovery e-mail when setting up your password, your remaining options are either to remember your password or to reset your account.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T004559Z" creationid="jsw" creationdate="20150516T004559Z">
+        <seg>因为您在设置密码时没有同时提供恢复邮箱，您的剩余选择只有记起您的密码或重置您的账户。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Skip</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T004009Z" creationid="jsw" creationdate="20150516T004009Z">
@@ -3492,6 +3620,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T003101Z" creationid="jsw" creationdate="20150516T003101Z">
         <seg>智能通知</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sorry</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T004504Z" creationid="jsw" creationdate="20150516T004504Z">
+        <seg>对不起</seg>
       </tuv>
     </tu>
     <tu>
@@ -3620,6 +3756,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020036Z" creationid="jsw" creationdate="20150321T020036Z">
         <seg>未挂载存储器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Success!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T004202Z" creationid="jsw" creationdate="20150516T004202Z">
+        <seg>成功！</seg>
       </tuv>
     </tu>
     <tu>
@@ -3824,6 +3968,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Turn Password Off</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T004237Z" creationid="jsw" creationdate="20150516T004237Z">
+        <seg>删除密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Two-Step Verification</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T003747Z" creationid="jsw" creationdate="20150516T003747Z">
@@ -3996,6 +4148,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T004012Z" creationid="jsw" creationdate="20150516T004012Z">
         <seg>警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We have sent a recovery code to the e-mail you provided:\n\n%1$s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T004619Z" creationid="jsw" creationdate="20150516T004619Z">
+        <seg>我们已经将恢复码发送到了您的邮箱：\n\n%1$s</seg>
       </tuv>
     </tu>
     <tu>
@@ -4332,6 +4492,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015436Z" creationid="jsw" creationdate="20150321T015436Z">
         <seg>您的姓名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your password for Two-Step Verification is now active.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T004220Z" creationid="jsw" creationdate="20150516T004220Z">
+        <seg>您的两步验证密码现已启用。</seg>
       </tuv>
     </tu>
     <tu>
