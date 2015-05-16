@@ -366,6 +366,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>%1$s is recording audio...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T002646Z" creationid="jsw" creationdate="20150516T002646Z">
+        <seg>%1$s 正在录制音频...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$s is sending file...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T002716Z" creationid="jsw" creationdate="20150516T002716Z">
+        <seg>%1$s 正在发送文件...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$s is sending photo...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T002700Z" creationid="jsw" creationdate="20150516T002700Z">
+        <seg>%1$s 正在发送图片...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$s is sending video...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T002708Z" creationid="jsw" creationdate="20150516T002708Z">
+        <seg>%1$s 正在发送视频...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>%1$s is using an older version of Telegram, so secret photos will be shown in compatibility mode.\n\nOnce %2$s updates Telegram, photos with timers for 1 minute or less will start working in 'Tap and hold to view' mode, and you will be notified whenever the other party takes a screenshot.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015802Z" creationid="jsw" creationdate="20150321T015802Z">
@@ -648,6 +680,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A new link has been generated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T002934Z" creationid="jsw" creationdate="20150516T002934Z">
+        <seg>一个新的链接已生成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A username must have at least 5 characters.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023217Z" creationid="jsw" creationdate="20150321T023217Z">
@@ -808,6 +848,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Anyone who has Telegram installed will be able to join your group by following this link.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T003011Z" creationid="jsw" creationdate="20150516T003011Z">
+        <seg>任何安装Telegram的用户将可以通过这个链接加入你的群组。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apply localization file</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020245Z" creationid="jsw" creationdate="20150321T020245Z">
@@ -900,6 +948,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042638Z" creationid="jsw" creationdate="20150321T042638Z">
         <seg>您确定要注销吗？\n\n请注意，您可以同时在所有设备上无缝地使用 Telegram。\n\n请记住，注销将会清除所有的加密聊天。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to revoke this link?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T002836Z" creationid="jsw" creationdate="20150516T002836Z">
+        <seg>您确定要吊销这个链接吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -1196,6 +1252,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042308Z" creationid="jsw" creationdate="20150321T042308Z">
         <seg>复制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy Link</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T002944Z" creationid="jsw" creationdate="20150516T002944Z">
+        <seg>复制链接</seg>
       </tuv>
     </tu>
     <tu>
@@ -1920,6 +1984,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In-Chat Sounds</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T003050Z" creationid="jsw" creationdate="20150516T003050Z">
+        <seg>会话内声音</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In-app notifications</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T024909Z" creationid="jsw" creationdate="20150321T024909Z">
@@ -1996,6 +2068,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021739Z" creationid="jsw" creationdate="20150321T021739Z">
         <seg>邀请朋友</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invite Link</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T002825Z" creationid="jsw" creationdate="20150516T002825Z">
+        <seg>邀请链接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invite to Group via Link</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T002822Z" creationid="jsw" creationdate="20150516T002822Z">
+        <seg>通过链接邀请</seg>
       </tuv>
     </tu>
     <tu>
@@ -2536,6 +2624,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once you do, no one will be able to join the group using it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T002904Z" creationid="jsw" creationdate="20150516T002904Z">
+        <seg>一旦你确定，没有人可以再通过此链接加入这个群组。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only if silent</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T003032Z" creationid="jsw" creationdate="20150516T003032Z">
+        <seg>仅静音模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only when screen \"off\"</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035125Z" creationid="jsw" creationdate="20150321T035125Z">
@@ -2816,6 +2920,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Revoke</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T002937Z" creationid="jsw" creationdate="20150516T002937Z">
+        <seg>吊销</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Revoke Link</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T002941Z" creationid="jsw" creationdate="20150516T002941Z">
+        <seg>吊销链接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SD Card</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020052Z" creationid="jsw" creationdate="20150321T020052Z">
@@ -3064,6 +3184,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Share Link</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T002947Z" creationid="jsw" creationdate="20150516T002947Z">
+        <seg>分享链接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Share Location</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035828Z" creationid="jsw" creationdate="20150321T035828Z">
@@ -3124,6 +3252,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035831Z" creationid="jsw" creationdate="20150321T035831Z">
         <seg>显示所有多媒体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Smart Notifications</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T003101Z" creationid="jsw" creationdate="20150516T003101Z">
+        <seg>智能通知</seg>
       </tuv>
     </tu>
     <tu>
@@ -3340,6 +3476,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035510Z" creationid="jsw" creationdate="20150321T035510Z">
         <seg>您所输入号码 %1$s 已经注册了 Telegram。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The previous invite link is now inactive.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T002924Z" creationid="jsw" creationdate="20150516T002924Z">
+        <seg>上一个邀请链接已冻结。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4092,6 +4236,38 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021730Z" creationid="jsw" creationdate="20150321T021730Z">
         <seg>在线</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>recording audio...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T002726Z" creationid="jsw" creationdate="20150516T002726Z">
+        <seg>正在录制音频...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>sending file...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T002743Z" creationid="jsw" creationdate="20150516T002743Z">
+        <seg>正在发送文件...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>sending photo...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T002731Z" creationid="jsw" creationdate="20150516T002731Z">
+        <seg>正在发送图片...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>sending video...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T002736Z" creationid="jsw" creationdate="20150516T002736Z">
+        <seg>正在发送视频...</seg>
       </tuv>
     </tu>
     <tu>
