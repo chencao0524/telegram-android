@@ -1808,6 +1808,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Forgot password?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T004917Z" creationid="jsw" creationdate="20150516T004917Z">
+        <seg>忘记密码？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Forward</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042311Z" creationid="jsw" creationdate="20150321T042311Z">
@@ -2000,6 +2008,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Having trouble accessing your e-mail %1$s?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T004649Z" creationid="jsw" creationdate="20150516T004649Z">
+        <seg>无法访问您的邮箱 %1$s?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hey, let's switch to Telegram: https://telegram.org/dl</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021717Z" creationid="jsw" creationdate="20150321T021717Z">
@@ -2060,6 +2076,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035029Z" creationid="jsw" creationdate="20150321T035018Z">
         <seg>如果您能收到 Google Play 服务发送的通知，您可以禁用 Telegram 的通知服务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you can't restore access to your e-mail, your remaining options are either to remember your password or to reset your account.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T004714Z" creationid="jsw" creationdate="20150516T004714Z">
+        <seg>如果您无法访问您的邮箱，您的剩余选择只有记起您的密码或重置您的账户。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2936,6 +2960,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Password Recovery</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T004935Z" creationid="jsw" creationdate="20150516T004935Z">
+        <seg>密码找回</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Password deactivated</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T005007Z" creationid="jsw" creationdate="20150516T005007Z">
+        <seg>密码已解除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Passwords do not match</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T004320Z" creationid="jsw" creationdate="20150516T004320Z">
@@ -3124,6 +3164,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042813Z" creationid="jsw" creationdate="20150321T042813Z">
         <seg>私密</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>RESET MY ACCOUNT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T004723Z" creationid="jsw" creationdate="20150516T004723Z">
+        <seg>重置我的账户</seg>
       </tuv>
     </tu>
     <tu>
@@ -3928,6 +3976,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This action can not be undone.\n\nIf you reset your account, all your messages and chats will be deleted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T004846Z" creationid="jsw" creationdate="20150516T004846Z">
+        <seg>这个操作不能撤销。\n\n如果您重置了您的账户，所有消息和会话都将被删除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This image is a visualization of the encryption key for this secret chat with &lt;b&gt;%1$s&lt;/b&gt;.&lt;br&gt;&lt;br&gt;If this image looks the same on &lt;b&gt;%2$s's&lt;/b&gt; phone, your chat is 200%% secure.&lt;br&gt;&lt;br&gt;Learn more at telegram.org</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023157Z" creationid="jsw" creationdate="20150321T023157Z">
@@ -4368,10 +4424,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You have enabled Two-Step Verification, so your account is protected with an additional password.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T004913Z" creationid="jsw" creationdate="20150516T004913Z">
+        <seg>您已启用了两步验证，因此您的账户受一个附加密码的保护。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have enabled Two-Step verification.\nYou'll need the password you set up here to log in to your Telegram account.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T005051Z" creationid="jsw" creationdate="20150516T005051Z">
+        <seg>您已启用了两步验证。\n您需要输入您曾经设置的验证密码才能登入您的Telegram账号。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You have invited %s to join a secret chat.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020227Z" creationid="jsw" creationdate="20150321T020227Z">
         <seg>已邀请 %s 进入私密对话。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You joined the group via invite link</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T005140Z" creationid="jsw" creationdate="20150516T005140Z">
+        <seg>您通过邀请链接加入了这个群组。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4436,6 +4516,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020239Z" creationid="jsw" creationdate="20150321T020239Z">
         <seg>您已经被踢出该群组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will lose all your chats and messages, along with any media and files you shared, if you proceed with resetting your account.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T004810Z" creationid="jsw" creationdate="20150516T004810Z">
+        <seg>如果您确认账户重置，您将丢失所有的联系人、聊天记录、媒体文件等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4508,6 +4596,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014533Z" creationid="jsw" creationdate="20150321T014533Z">
         <seg>您的手机</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your recovery e-mail %1$s is not yet active and pending confirmation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T005125Z" creationid="jsw" creationdate="20150516T005111Z">
+        <seg>您的恢复邮箱 %1$s 正等待验证。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4828,6 +4924,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042405Z" creationid="jsw" creationdate="20150321T042405Z">
         <seg>un1 创建了群组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>un1 joined the group via invite link</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T005148Z" creationid="jsw" creationdate="20150516T005148Z">
+        <seg>un1 通过邀请链接加入了这个群组。</seg>
       </tuv>
     </tu>
     <tu>
