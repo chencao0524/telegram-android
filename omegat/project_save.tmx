@@ -712,6 +712,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Active Sessions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T003358Z" creationid="jsw" creationdate="20150516T003358Z">
+        <seg>活动会话</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022926Z" creationid="jsw" creationdate="20150321T022926Z">
@@ -804,6 +812,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035450Z" creationid="jsw" creationdate="20150321T035450Z">
         <seg>所有拥有您的号码并且没有被屏蔽的人将会更新您的新号码到他们的联系人列表中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All your data will be instantly synchronized.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T003457Z" creationid="jsw" creationdate="20150516T003457Z">
+        <seg>所有数据将被实时同步。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1248,6 +1264,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Control your sessions on other devices.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T003515Z" creationid="jsw" creationdate="20150516T003515Z">
+        <seg>控制你在其它设备上的会话</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copy</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042308Z" creationid="jsw" creationdate="20150321T042308Z">
@@ -1268,6 +1292,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035922Z" creationid="jsw" creationdate="20150321T035922Z">
         <seg>裁剪图片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Current session</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T003409Z" creationid="jsw" creationdate="20150516T003401Z">
+        <seg>当前会话</seg>
       </tuv>
     </tu>
     <tu>
@@ -1500,6 +1532,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035932Z" creationid="jsw" creationdate="20150321T035932Z">
         <seg>增强</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a passcode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T003614Z" creationid="jsw" creationdate="20150516T003614Z">
+        <seg>键入一个密码</seg>
       </tuv>
     </tu>
     <tu>
@@ -2504,6 +2544,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No other active sessions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T003418Z" creationid="jsw" creationdate="20150516T003418Z">
+        <seg>没有其他的活动会话</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No photos yet</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035846Z" creationid="jsw" creationdate="20150321T035846Z">
@@ -2700,6 +2748,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035552Z" creationid="jsw" creationdate="20150321T035552Z">
         <seg>密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Passcode Lock</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T003605Z" creationid="jsw" creationdate="20150516T003605Z">
+        <seg>密码锁</seg>
       </tuv>
     </tu>
     <tu>
@@ -3112,6 +3168,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Send selected location</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T003633Z" creationid="jsw" creationdate="20150516T003633Z">
+        <seg>发送选中的位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Send your current location</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T003626Z" creationid="jsw" creationdate="20150516T003626Z">
+        <seg>发送您当前的位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sending video...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042253Z" creationid="jsw" creationdate="20150321T042245Z">
@@ -3336,6 +3408,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sound at most</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T003306Z" creationid="jsw" creationdate="20150516T003245Z">
+        <seg>最大音量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sound at most %1$s within %2$s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T003303Z" creationid="jsw" creationdate="20150516T003201Z">
+        <seg>音量介于 $1$s 与 $2$s 之间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Start Messaging</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042846Z" creationid="jsw" creationdate="20150321T042846Z">
@@ -3448,6 +3536,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tap on a session to terminate.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T003547Z" creationid="jsw" creationdate="20150516T003540Z">
+        <seg>触摸一个会话以注销它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Telegram</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T014449Z" creationid="jsw" creationdate="20150321T014449Z">
@@ -3468,6 +3564,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T030542Z" creationid="jsw" creationdate="20150321T030542Z">
         <seg>注销所有其它设备上的会话</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Terminate this session?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T003553Z" creationid="jsw" creationdate="20150516T003553Z">
+        <seg>注销这个会话？</seg>
       </tuv>
     </tu>
     <tu>
@@ -3828,6 +3932,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T023254Z" creationid="jsw" creationdate="20150321T023254Z">
         <seg>您可以在 &lt;b&gt;Telegram&lt;/b&gt; 上选择用户名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can log in to Telegram from other mobile, tablet and desktop devices, using the same phone number.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T003504Z" creationid="jsw" creationdate="20150516T003440Z">
+        <seg>你可以从其他的手机、平板和桌面设备用同样的手机号码登陆Telegram。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4200,6 +4312,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>minutes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T003353Z" creationid="jsw" creationdate="20150516T003353Z">
+        <seg>分钟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>no items</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T141549Z" creationid="jsw" creationdate="20150509T141549Z">
@@ -4268,6 +4388,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T002736Z" creationid="jsw" creationdate="20150516T002736Z">
         <seg>正在发送视频...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>times</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T003348Z" creationid="jsw" creationdate="20150516T003348Z">
+        <seg>次</seg>
       </tuv>
     </tu>
     <tu>
@@ -4364,6 +4492,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042529Z" creationid="jsw" creationdate="20150321T042529Z">
         <seg>un1 截了一张图！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>unofficial app</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T003601Z" creationid="jsw" creationdate="20150516T003601Z">
+        <seg>非官方应用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>within</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T003351Z" creationid="jsw" creationdate="20150516T003351Z">
+        <seg>以内</seg>
       </tuv>
     </tu>
     <tu>
