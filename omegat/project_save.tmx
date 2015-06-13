@@ -4610,8 +4610,8 @@
       <tuv lang="EN-US">
         <seg>You have a new message</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020256Z" creationid="jsw" creationdate="20150321T020256Z">
-        <seg>您有一条新消息</seg>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150613T114058Z" creationid="jsw" creationdate="20150321T020256Z">
+        <seg>您有一条新信息</seg>
       </tuv>
     </tu>
     <tu>
