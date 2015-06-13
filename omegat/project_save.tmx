@@ -246,6 +246,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>%1$d sticker</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150613T111036Z" creationid="jsw" creationdate="20150613T111036Z">
+        <seg>%1$d 个贴图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>%1$d stickers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150613T111028Z" creationid="jsw" creationdate="20150613T111028Z">
+        <seg>%1$d 个贴图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>%1$d time</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T005259Z" creationid="jsw" creationdate="20150516T005259Z">
@@ -784,6 +800,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add Stickers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150613T110909Z" creationid="jsw" creationdate="20150613T110909Z">
+        <seg>添加贴图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add Users</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042219Z" creationid="jsw" creationdate="20150321T042219Z">
@@ -828,6 +852,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015951Z" creationid="jsw" creationdate="20150321T015951Z">
         <seg>添加接收人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add to Stickers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150613T110913Z" creationid="jsw" creationdate="20150613T110913Z">
+        <seg>添加到贴图库</seg>
       </tuv>
     </tu>
     <tu>
@@ -1320,6 +1352,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Close</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150613T110959Z" creationid="jsw" creationdate="20150613T110959Z">
+        <seg>关闭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cloud-Based</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042809Z" creationid="jsw" creationdate="20150321T042809Z">
@@ -1411,6 +1451,22 @@
         <seg>Copy Link</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T002944Z" creationid="jsw" creationdate="20150516T002944Z">
+        <seg>复制链接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy URL</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150613T110833Z" creationid="jsw" creationdate="20150613T110833Z">
+        <seg>复制链接地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy link</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150613T110941Z" creationid="jsw" creationdate="20150613T110941Z">
         <seg>复制链接</seg>
       </tuv>
     </tu>
@@ -2024,6 +2080,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HASHTAGS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150613T110812Z" creationid="jsw" creationdate="20150613T110812Z">
+        <seg>话题标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HH:mm</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T043403Z" creationid="jsw" creationdate="20150321T043403Z">
@@ -2052,6 +2116,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T021717Z" creationid="jsw" creationdate="20150321T021717Z">
         <seg>亲！和我一起用 Telegram 吧，超棒的聊天工具，简洁高效，没有广告，会话加密，尊重隐私，不受审查过滤：https://telegram.org/dl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150613T110934Z" creationid="jsw" creationdate="20150613T110934Z">
+        <seg>隐藏</seg>
       </tuv>
     </tu>
     <tu>
@@ -2664,6 +2736,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New stickers added</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150613T110931Z" creationid="jsw" creationdate="20150613T110931Z">
+        <seg>已添加新的贴图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Next</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042254Z" creationid="jsw" creationdate="20150321T042254Z">
@@ -2792,6 +2872,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No stickers yet</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150613T110949Z" creationid="jsw" creationdate="20150613T110949Z">
+        <seg>现在还没有贴图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No videos yet</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T003711Z" creationid="jsw" creationdate="20150516T003711Z">
@@ -2916,6 +3004,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042259Z" creationid="jsw" creationdate="20150321T042259Z">
         <seg>打开</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open in Browser</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150613T110824Z" creationid="jsw" creationdate="20150613T110824Z">
+        <seg>用浏览器打开</seg>
       </tuv>
     </tu>
     <tu>
@@ -3236,6 +3332,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150516T003948Z" creationid="jsw" creationdate="20150516T003948Z">
         <seg>恢复邮箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150613T110944Z" creationid="jsw" creationdate="20150613T110944Z">
+        <seg>移除</seg>
       </tuv>
     </tu>
     <tu>
@@ -3642,8 +3746,8 @@
       <tuv lang="EN-US">
         <seg>Share my contact</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T020206Z" creationid="jsw" creationdate="20150321T020206Z">
-        <seg>分享我的联系人</seg>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150613T110847Z" creationid="jsw" creationdate="20150321T020206Z">
+        <seg>分享我的联系方式</seg>
       </tuv>
     </tu>
     <tu>
@@ -3676,6 +3780,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T035136Z" creationid="jsw" creationdate="20150321T035136Z">
         <seg>短</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150613T110937Z" creationid="jsw" creationdate="20150613T110937Z">
+        <seg>显示</seg>
       </tuv>
     </tu>
     <tu>
@@ -3836,6 +3948,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042522Z" creationid="jsw" creationdate="20150321T042522Z">
         <seg>贴图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stickers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150613T110859Z" creationid="jsw" creationdate="20150613T110859Z">
+        <seg>贴图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stickers not found</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150613T110918Z" creationid="jsw" creationdate="20150613T110918Z">
+        <seg>贴图未找到</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stickers removed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150613T110925Z" creationid="jsw" creationdate="20150613T110925Z">
+        <seg>贴图已移除</seg>
       </tuv>
     </tu>
     <tu>
@@ -4548,6 +4684,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042412Z" creationid="jsw" creationdate="20150321T042412Z">
         <seg>您已将 un2 移除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You returned to the group</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150613T111014Z" creationid="jsw" creationdate="20150613T111014Z">
+        <seg>你返回了该群组</seg>
       </tuv>
     </tu>
     <tu>
