@@ -2064,6 +2064,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Great Minds</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150622T053306Z" creationid="jsw" creationdate="20150622T053306Z">
+        <seg>Great Minds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Group name</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T022058Z" creationid="jsw" creationdate="20150321T022058Z">
