@@ -680,6 +680,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>536</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150622T053502Z" creationid="jsw" creationdate="20150622T053502Z">
+        <seg>536</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b&gt;Telegram&lt;/b&gt; delivers messages faster than&lt;br/&gt;any other application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T141321Z" creationid="jsw" creationdate="20150509T141321Z">
@@ -1124,6 +1132,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T042606Z" creationid="jsw" creationdate="20150321T042606Z">
         <seg>您确定吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Artists are welcome to add their own sticker packs using our @stickers bot.\n\nUsers can add stickers by tapping on them and choosing \"Add to Stickers\".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150622T053455Z" creationid="jsw" creationdate="20150622T053455Z">
+        <seg>欢迎艺术家们使用我们的 @stickers 机器人添加自己的贴图包。\n\n用户可以通过点击贴图并选择“添加到贴图”来添加到贴图包。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2732,6 +2748,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="jsw" changedate="20150321T015722Z" creationid="jsw" creationdate="20150321T015636Z">
         <seg>新建私密对话</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New in version 2.9:\n\n- Install and share custom sticker sets like this one: https://telegram.me/addstickers/Animals\n- If you're an artist, create custom sticker sets using our @stickers bot.\n\n- Use Telegram with Android Auto.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150622T053500Z" creationid="jsw" creationdate="20150622T053500Z">
+        <seg>New in version 2.9:\n\n- Install and share custom sticker sets like this one: https://telegram.me/addstickers/Animals\n- If you're an artist, create custom sticker sets using our @stickers bot.\n\n- Use Telegram with Android Auto.</seg>
       </tuv>
     </tu>
     <tu>
