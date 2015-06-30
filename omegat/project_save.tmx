@@ -640,9 +640,9 @@
       <tuv lang="EN-US">
         <seg>%1$s,\nWe detected a login into your account from a new device on %2$s\n\nDevice: %3$s\nLocation: %4$s\n\nIf this wasn't you, you can go to Settings - Privacy and Security - Sessions and terminate that session.\n\nIf you think that somebody logged in to your account against your will, you can enable two-step verification in Privacy and Security settings.\n\nSincerely,\nThe Telegram Team</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="jsw" changedate="20150509T135754Z" creationid="jsw" creationdate="20150509T135754Z">
+      <tuv lang="ZH-CN" changeid="jsw" changedate="20150630T065656Z" creationid="jsw" creationdate="20150509T135754Z">
         <seg>%4$s\n\nIf this wasn't you, you can go to Settings - Privacy and Security - Sessions and terminate that session.\n\nIf you think that somebody logged in to your account against your will, you can enable two-step verification in Privacy and Security settings.\n\nSincerely,\nThe Telegram Team
-%1$s，\n我们发现您的账号在 %2$s 从新的设备登录\n\n设备： %3$s\n位置： %4$s\n\n如果这不是您本人，您可以到「设置—注销所有其它设备上的会话」注销其登录\n\n此致，\nTelegram 团队
+%1$s，\n我们发现您的账号在 %2$s 从新的设备登录\n\n设备： %3$s\n位置： %4$s\n\n如果这不是您本人，您可以到「设置—注销所有其它设备上的会话」注销其登录会话。\n\n此致，\nTelegram 团队
 </seg>
       </tuv>
     </tu>
